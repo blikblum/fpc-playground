@@ -1,0 +1,9 @@
+*.bak
+*.exe
+*.ppu
+*.o
+*.s
+*.fpm
+fpcmade.*
+units
+build-stamp.*
