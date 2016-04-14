@@ -6868,6 +6868,8 @@ packages/ptc/src/c_api/capi_surface.inc svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/ptc/src/c_api/capi_surfaced.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/c_api/capi_timer.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/c_api/capi_timerd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/cocoa/cocoaconsoled.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/cocoa/cocoaconsolei.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/core/aread.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/core/areai.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/core/baseconsoled.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
