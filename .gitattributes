@@ -188,7 +188,9 @@ compiler/hlcgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/html/i386/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/html/powerpc/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/htypechk.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/i386/aopt386.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i386/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i386/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/i386/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/cpubase.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/cpuelf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -197,7 +199,6 @@ compiler/i386/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/i386/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/i386/daopt386.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/hlcgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/i386att.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/i386atts.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -214,7 +215,6 @@ compiler/i386/n386ld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386mem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/n386set.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/i386/popt386.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/r386ari.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/r386att.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/i386/r386con.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
