@@ -6511,6 +6511,11 @@ packages/os2units/src/mmio.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/os2units/src/som.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/src/sw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os2units/src/wpstk.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/os4units/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/os4units/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/os4units/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/os4units/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/os4units/src/exec.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/palmunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
