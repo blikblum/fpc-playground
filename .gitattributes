@@ -6518,6 +6518,8 @@ packages/os4units/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=na
 packages/os4units/src/agraphics.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/amigados.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/exec.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/os4units/src/inputevent.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/os4units/src/layers.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/timer.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/utility.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/palmunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
