@@ -1003,6 +1003,7 @@ packages/ami-extra/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/ami-extra/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ami-extra/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ami-extra/src/cliputils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ami-extra/src/pcq.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1148,7 +1149,6 @@ packages/amunits/src/utilunits/easyasl.pas svn_mime_002dtype=text%2Fplain svn_eo
 packages/amunits/src/utilunits/hisoft.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/linklist.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/pastoc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/amunits/src/utilunits/pcq.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/tagsarray.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/timerutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/vartags.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
