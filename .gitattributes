@@ -57,6 +57,7 @@ compiler/aoptbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aoptcs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aoptda.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aoptobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aoptutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/arm/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/agarmgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
