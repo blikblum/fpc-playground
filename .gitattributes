@@ -1138,8 +1138,6 @@ packages/amunits/src/otherlibs/xadmaster.pas svn_mime_002dtype=text%2Fplain svn_
 packages/amunits/src/otherlibs/zlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/useamigasmartlink.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/useautoopenlib.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/amunits/src/utilunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/amunits/src/utilunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/amigautils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/amsgbox.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/consoleio.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
