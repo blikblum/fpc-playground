@@ -8257,6 +8257,7 @@ packages/x11/src/xft.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 packages/x11/src/xi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xi2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xinerama.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/x11/src/xinput.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xkb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xkblib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8267,6 +8268,7 @@ packages/x11/src/xshm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xvlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/x11/tests/xinput_linktest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/xforms/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/xforms/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/xforms/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
