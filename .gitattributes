@@ -8254,6 +8254,7 @@ packages/x11/src/xf86dga.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/x11/src/xf86dga1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xf86vmode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xft.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/x11/src/xge.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xi2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xinerama.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8268,6 +8269,7 @@ packages/x11/src/xshm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/src/xvlib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/x11/tests/xge_linktest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/x11/tests/xinput_linktest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/xforms/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/xforms/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
