@@ -6534,6 +6534,7 @@ packages/os4units/src/intuition.pas svn_mime_002dtype=text%2Fpascal svn_eol_002d
 packages/os4units/src/keymap.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/layers.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/mui.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/os4units/src/picasso96api.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/timer.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/utility.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/workbench.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
