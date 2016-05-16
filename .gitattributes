@@ -9635,6 +9635,8 @@ rtl/objpas/sysutils/sysint.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 rtl/objpas/sysutils/sysinth.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/syspch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/syspchh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/syssb.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/syssbh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/syssr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysstr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/sysstrh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
