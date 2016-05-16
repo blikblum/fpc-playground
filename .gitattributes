@@ -2590,6 +2590,8 @@ packages/fcl-pdf/utils/ttfdump.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-process/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/examples/checkipcserver.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/examples/checkipcserver.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/demoproject.ico svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-process/examples/demoproject.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/demoproject.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2603,6 +2605,8 @@ packages/fcl-process/examples/ipcclient.lpi svn_mime_002dtype=text%2Fplain svn_e
 packages/fcl-process/examples/ipcclient.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/ipcserver.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/ipcserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/examples/simpleipcserver.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/examples/simpleipcserver.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/waitonexit.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-process/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/amicommon/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
