@@ -2001,6 +2001,7 @@ packages/fcl-base/examples/txmlreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-base/examples/xmldump.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/advancedipc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/src/advancedsingleinstance.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/ascii85.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/avl_tree.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/base64.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
