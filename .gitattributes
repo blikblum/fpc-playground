@@ -377,6 +377,7 @@ compiler/m68k/n68kcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/m68k/n68kinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/n68kmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/n68kmem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/m68k/n68kset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/r68kbss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/r68kcon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/r68kgas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
