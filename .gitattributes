@@ -9432,6 +9432,7 @@ rtl/nativent/classes.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/nativent/ddk.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/nativent/ddk/ddkex.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/ddk/ddktypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/nativent/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/ndk.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/nativent/ndk/iofuncs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/ndk/iotypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
