@@ -16358,6 +16358,7 @@ utils/unicode/cldrhelper.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=n
 utils/unicode/cldrparser.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/unicode/cldrparser.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 utils/unicode/cldrtest.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+utils/unicode/cldrtxt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/unicode/cldrxml.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 utils/unicode/data svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 utils/unicode/data/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
