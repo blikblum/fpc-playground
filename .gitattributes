@@ -358,6 +358,7 @@ compiler/llvm/symllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/llvm/tgllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/ag68kgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/m68k/ag68kvasm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
