@@ -15133,6 +15133,7 @@ tests/webtbs/tw2876.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw28766.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw28801.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2883.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw28832.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw2885.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw28850.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw2886.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
