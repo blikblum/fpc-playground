@@ -8646,6 +8646,7 @@ rtl/darwin/ptypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/signal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/sysctlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/darwin/sysinit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/darwin/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
