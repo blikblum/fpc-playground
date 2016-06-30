@@ -2586,8 +2586,6 @@ packages/fcl-pdf/tests/unittests_console.lpi svn_mime_002dtype=text%2Fplain svn_
 packages/fcl-pdf/tests/unittests_console.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/tests/unittests_gui.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/tests/unittests_gui.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-pdf/utils/mkpdffontdef.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-pdf/utils/mkpdffontdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/utils/ttfdump.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/utils/ttfdump.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
