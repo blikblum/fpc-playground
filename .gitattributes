@@ -892,7 +892,6 @@ compiler/x86_64/x8664tab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 /fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /fpmake_add1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /fpmake_proc1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-/googleapi-3.1.1.source.zip svn_mime_002dtype=application%2Fzip
 ide/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 ide/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -992,7 +991,6 @@ installer/makelink.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/scroll.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/winshell.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 installer/writeidx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-/packages.xml svn_mime_002dtype=application%2Fxml
 packages/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
