@@ -49,6 +49,7 @@ compiler/aarch64/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 compiler/aasmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmcnst.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmdata.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aasmdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmsym.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmtai.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aggas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
