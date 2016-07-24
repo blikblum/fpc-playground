@@ -9063,7 +9063,6 @@ rtl/haiku/suuid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/sysconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/haiku/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
