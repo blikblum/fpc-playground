@@ -12240,6 +12240,7 @@ tests/test/tcpstr26a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr26b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr26c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr26d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcpstr27.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcpstr4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
