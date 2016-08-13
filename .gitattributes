@@ -10176,6 +10176,7 @@ rtl/win64/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/seh64.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/signals.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win64/sysinit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win64/windows.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/wince/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
