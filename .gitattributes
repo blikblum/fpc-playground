@@ -10272,7 +10272,6 @@ tests/bench/shortbench.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/bench/stream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/whet.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-tests/createlst.mak svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0001.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/tb0002.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -13570,6 +13569,7 @@ tests/utils/avx/options.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 tests/utils/avx/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/bench.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/concat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/createlst.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/utils/dbconfig.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/dbdigest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/dbtests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
