@@ -8570,6 +8570,7 @@ rtl/android/mipsel svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 rtl/android/mipsel/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/mipsel/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/sysandroid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/unixandroid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/arm.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/armdefines.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/arm/cpu.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
