@@ -2546,6 +2546,7 @@ packages/fcl-passrc/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-passrc/examples/test_parser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/examples/testunit1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/src/pasresolver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/passrcutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/pastounittest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/pastree.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2560,6 +2561,7 @@ packages/fcl-passrc/tests/tcmoduleparser.pas svn_mime_002dtype=text%2Fplain svn_
 packages/fcl-passrc/tests/tconstparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcpassrcutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcprocfunc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/tests/tcresolver.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcscanner.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcstatements.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tctypeparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
