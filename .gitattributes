@@ -1004,6 +1004,7 @@ packages/ami-extra/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/ami-extra/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ami-extra/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ami-extra/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ami-extra/src/amsgbox.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ami-extra/src/cliputils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ami-extra/src/pcq.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1141,7 +1142,6 @@ packages/amunits/src/otherlibs/zlib.pas svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/amunits/src/useamigasmartlink.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/useautoopenlib.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/amigautils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/amunits/src/utilunits/amsgbox.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/consoleio.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/deadkeys.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/src/utilunits/doublebuffer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
