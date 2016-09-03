@@ -707,6 +707,7 @@ compiler/symsym.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/symtable.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/symtype.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/symutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/syscinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_aix.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
