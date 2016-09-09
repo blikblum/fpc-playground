@@ -210,8 +210,7 @@ var
   it : TJSONToken;
   I : Integer;
   OldLength, SectionLength, Index: Integer;
-  C : char;
-  S : String;
+  C, S : char;
   IsStar,EOC: Boolean;
 
 begin
@@ -271,7 +270,7 @@ begin
               'f' : S:=#12;
               '\' : S:='\';
               '/' : S:='/';
-              'u' : begin
+              'u' : begin {
                     S:='0000';
                     For I:=1 to 4 do
                       begin
@@ -283,21 +282,25 @@ begin
                         Error(SErrInvalidCharacter, [CurRow,CurColumn,TokenStr[0]]);
                       end;
                       end;
-                    // WideChar takes care of conversion...  
-                    if (joUTF8 in Options) then
+                      }
+                    // WideChar takes care of conversion...
+
+                    {if (joUTF8 in Options) then
                       S:=Utf8Encode(WideString(WideChar(StrToInt('$'+S))))
                     else
-                      S:=WideChar(StrToInt('$'+S));  
+                      S:=WideChar(StrToInt('$'+S));
+                      }
                     end;
+
               #0  : Error(SErrOpenString);
             else
               Error(SErrInvalidCharacter, [CurRow,CurColumn,TokenStr[0]]);
             end;
-            SetLength(FCurTokenString, OldLength + SectionLength+1+Length(S));
+            SetLength(FCurTokenString, OldLength + SectionLength+2);
             if SectionLength > 0 then
               Move(TokenStart^, FCurTokenString[OldLength + 1], SectionLength);
-            Move(S[1],FCurTokenString[OldLength + SectionLength+1],Length(S));
-            Inc(OldLength, SectionLength+Length(S));
+            FCurTokenString[OldLength + SectionLength+2] := S;
+            Inc(OldLength, SectionLength+1);
             // Next char
             // Inc(TokenStr);
             TokenStart := TokenStr+1;
@@ -355,8 +358,10 @@ begin
         SectionLength := TokenStr - TokenStart;
         FCurTokenString:='';
         SetString(FCurTokenString, TokenStart, SectionLength);
+        {
         If (FCurTokenString[1]='.') then
           FCurTokenString:='0'+FCurTokenString;
+        }
         Result := tkNumber;
       end;
     ':':
@@ -407,9 +412,8 @@ begin
             if (TokenStr[0]=#0) then
               begin
               SectionLength := (TokenStr - TokenStart);
-              S:='';
-              SetString(S, TokenStart, SectionLength);
-              FCurtokenString:=FCurtokenString+S;
+              //SetString(S, TokenStart, SectionLength);
+              //FCurtokenString:=FCurtokenString+S;
               if not fetchLine then
                 Error(SUnterminatedComment, [CurRow,CurCOlumn,TokenStr[0]]);
               TokenStart:=TokenStr;
@@ -421,9 +425,9 @@ begin
           if EOC then
             begin
             SectionLength := (TokenStr - TokenStart-1);
-            S:='';
-            SetString(S, TokenStart, SectionLength);
-            FCurtokenString:=FCurtokenString+S;
+
+            //SetString(S, TokenStart, SectionLength);
+            //FCurtokenString:=FCurtokenString+S;
             Inc(TokenStr);
             end;
           end;
