@@ -3377,6 +3377,7 @@ packages/fppkg/src/pkghandler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/fppkg/src/pkgmessages.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/pkgmkconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/pkgoptions.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fppkg/src/pkgpackagesstructure.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/pkgrepos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/pkgwget.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fuse/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
