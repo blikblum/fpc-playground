@@ -6862,6 +6862,7 @@ packages/paszlib/src/ziputils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/paszlib/src/zstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/src/zuncompr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/tests/tczipper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/paszlib/tests/tczstreamseek.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pcap/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pcap/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pcap/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
