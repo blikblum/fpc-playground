@@ -2056,6 +2056,7 @@ packages/fcl-base/src/wtex.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fcl-base/tests/fclbase-unittests.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/fclbase-unittests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/tchashlist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/tests/tcinifile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/tcmaskutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/testexprpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/tests/tests_fptemplate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
