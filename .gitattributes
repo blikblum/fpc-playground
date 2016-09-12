@@ -1174,6 +1174,7 @@ packages/arosunits/src/inputevent.pas svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/arosunits/src/intuition.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/keymap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/layers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/arosunits/src/locale.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/arosunits/src/longarray.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/mui.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/tagsarray.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
