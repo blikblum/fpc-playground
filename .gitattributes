@@ -6826,6 +6826,7 @@ packages/pastojs/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/pastojs/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/fppas2js.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/tcconverter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/tests/tcmodules.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/testpas2js.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/testpas2js.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/todo.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
