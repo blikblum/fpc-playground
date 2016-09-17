@@ -6121,6 +6121,7 @@ packages/morphunits/src/inputevent.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/morphunits/src/intuition.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/keymap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/layers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/locale.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/morphunits/src/mui.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/muihelper.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
