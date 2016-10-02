@@ -8625,6 +8625,7 @@ rtl/atari/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_
 rtl/atari/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/atari/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/atari/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/atari/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/avr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
