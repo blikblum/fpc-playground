@@ -2468,8 +2468,10 @@ packages/fcl-js/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/README.TXT svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-js/examples/fpjsmin.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jsbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-js/src/jsminifier.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jsparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jsscanner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jstoken.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
