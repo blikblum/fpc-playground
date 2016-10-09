@@ -7356,8 +7356,6 @@ packages/rtl-objpas/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 packages/rtl-objpas/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/common/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/gba/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/go32v2/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/convutil.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/convutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/convutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7373,17 +7371,7 @@ packages/rtl-objpas/src/inc/variants.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/rtl-objpas/src/inc/varutilh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/varutils.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/widestrutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/msdos/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/nativent/varutils.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-packages/rtl-objpas/src/nds/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/netware/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/netwlibc/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/os2commn/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/unix/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/watcom/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/wii/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/win/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/wince/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-unicode/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-unicode/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-unicode/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
