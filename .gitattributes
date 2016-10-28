@@ -1162,6 +1162,7 @@ packages/arosunits/src/agraphics.pas svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/arosunits/src/amigados.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/asl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/clipboard.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/arosunits/src/commodities.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/arosunits/src/cybergraphics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/diskfont.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/exec.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
