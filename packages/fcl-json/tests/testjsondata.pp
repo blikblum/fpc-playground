@@ -4054,6 +4054,7 @@ begin
   TestFrom('ABC','ABC');
   TestFrom('\\','\');
   TestFrom('\/','/');
+  TestFrom('/','/');
   TestFrom('\"','"');
   TestFrom('\b',#8);
   TestFrom('\t',#9);
@@ -4077,6 +4078,7 @@ begin
   TestFrom('A\rBC','A'#13'BC');
   TestFrom('\\\\','\\');
   TestFrom('\/\/','//');
+  TestFrom('//','//');
   TestFrom('\"\"','""');
   TestFrom('\b\b',#8#8);
   TestFrom('\t\t',#9#9);
@@ -4092,7 +4094,7 @@ begin
   TestTo('AB','AB');
   TestTo('ABC','ABC');
   TestTo('\','\\');
-  TestTo('/','\/');
+  TestTo('/','/');
   TestTo('"','\"');
   TestTo(#8,'\b');
   TestTo(#9,'\t');
@@ -4115,7 +4117,7 @@ begin
   TestTo('A'#12'BC','A\fBC');
   TestTo('A'#13'BC','A\rBC');
   TestTo('\\','\\\\');
-  TestTo('//','\/\/');
+  TestTo('//','//');
   TestTo('""','\"\"');
   TestTo(#8#8,'\b\b');
   TestTo(#9#9,'\t\t');

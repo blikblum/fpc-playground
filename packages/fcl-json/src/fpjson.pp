@@ -678,12 +678,11 @@ begin
   While I<=L do
     begin
     C:=AnsiChar(P^);
-    if (C in ['"','/','\',#0..#31]) then
+    if (C in ['"','\',#0..#31]) then
       begin
       Result:=Result+Copy(S,J,I-J);
       Case C of
         '\' : Result:=Result+'\\';
-        '/' : Result:=Result+'\/';
         '"' : Result:=Result+'\"';
         #8  : Result:=Result+'\b';
         #9  : Result:=Result+'\t';
