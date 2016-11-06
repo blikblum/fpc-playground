@@ -13469,6 +13469,8 @@ tests/test/units/system/todd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 tests/test/units/system/tparam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tpchlen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tpi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/system/tpredsucc1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/units/system/tpredsucc2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/system/trandom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/trdtxt01.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/trdtxt02.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
