@@ -653,7 +653,6 @@ compiler/raatt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/rabase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/rasm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/rautils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/regvars.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/rescmn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/rgbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/rgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
