@@ -13353,6 +13353,7 @@ tests/test/units/dos/tenv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 tests/test/units/dos/tfattr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/tfexpand.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/tfsearch.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/dos/tfsrch2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/tidos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/tidos2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/dos/tverify.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
