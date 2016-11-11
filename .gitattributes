@@ -3106,6 +3106,8 @@ packages/fcl-web/examples/httpclient/httppost.lpi svn_mime_002dtype=text%2Fplain
 packages/fcl-web/examples/httpclient/httppost.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpclient/httppostfile.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpclient/httppostfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/httpclient/keepalive.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/httpclient/keepalive.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpserver/simplehttpserver.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/httpserver/simplehttpserver.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/demo1/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
