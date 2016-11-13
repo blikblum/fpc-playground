@@ -55,7 +55,6 @@ compiler/aasmtai.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aggas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aopt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aoptbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/aoptcs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aoptda.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aoptobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aoptutils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -63,7 +62,6 @@ compiler/arm/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/agarmgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/arm/aoptcpuc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/armatt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/armatts.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -546,7 +544,6 @@ compiler/powerpc/agppcmpw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 compiler/powerpc/agppcvasm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/powerpc/aoptcpuc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -582,7 +579,6 @@ compiler/powerpc/rppcsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/powerpc/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/powerpc64/aoptcpuc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/powerpc64/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
