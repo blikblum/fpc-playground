@@ -345,6 +345,7 @@ compiler/llvm/nllvmbas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/llvm/nllvmcal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/nllvmcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/nllvmcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/llvm/nllvmflw.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/nllvminl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/nllvmld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/nllvmmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -472,6 +473,7 @@ compiler/ncginl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgmem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ncgnstfl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgnstld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgnstmm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ncgobjc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
