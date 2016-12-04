@@ -8543,6 +8543,7 @@ rtl/amiga/m68k/execd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/m68k/execf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/m68k/m68kamiga.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/m68k/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/amiga/m68k/si_prc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/m68k/utild1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/m68k/utild2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/m68k/utilf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
