@@ -8536,6 +8536,7 @@ rtl/amicommon/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native
 rtl/amicommon/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
+rtl/amiga/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/doslibd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/amiga/m68k svn_eol_002dtype=nativ
 rtl/amiga/m68k/doslibf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
