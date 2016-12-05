@@ -8553,6 +8553,7 @@ rtl/amiga/powerpc/doslibf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 rtl/amiga/powerpc/execd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/powerpc/execf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/powerpc/prt0.as svnc_amiga_003aprotection=----rw-d+rw-d+rw-d svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/amiga/powerpc/si_prc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/powerpc/utild1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/powerpc/utild2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/powerpc/utilf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
