@@ -2387,6 +2387,7 @@ packages/fcl-fpcunit/src/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fcl-fpcunit/src/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/latextestreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/plaintestreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-fpcunit/src/simpletestrunner.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/testdecorator.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/testregistry.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-fpcunit/src/testreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
