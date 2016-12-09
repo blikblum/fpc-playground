@@ -2582,6 +2582,7 @@ packages/fcl-pdf/examples/testfppdf.lpi svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/fcl-pdf/examples/testfppdf.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-pdf/src/fontmetrics_stdpdf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/src/fpparsettf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/src/fppdf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/src/fpttf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
