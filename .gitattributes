@@ -7362,7 +7362,6 @@ packages/rtl-objpas/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/rtl-objpas/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-objpas/src/common/rtti.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/common/varutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/convutil.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/convutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7372,6 +7371,7 @@ packages/rtl-objpas/src/inc/dateutil.inc svn_mime_002dtype=text%2Fplain svn_eol_
 packages/rtl-objpas/src/inc/dateutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/dateutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/fmtbcd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-objpas/src/inc/rtti.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/stdconvs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/strutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/varerror.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
