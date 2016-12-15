@@ -13135,6 +13135,7 @@ tests/test/trstr7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trstr8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/trtti11.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trtti2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
