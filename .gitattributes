@@ -1004,6 +1004,7 @@ packages/ami-extra/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/ami-extra/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ami-extra/src/amsgbox.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ami-extra/src/cliputils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ami-extra/src/muihelper.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ami-extra/src/pcq.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6133,7 +6134,6 @@ packages/morphunits/src/keymap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/morphunits/src/layers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/locale.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/morphunits/src/mui.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/morphunits/src/muihelper.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/tinygl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/utility.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
