@@ -7512,6 +7512,12 @@ packages/tcl/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tcl/src/tcl80.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tcl/tests/tcl_demo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tcl/tests/test.tcl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tosunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tosunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tosunits/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tosunits/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tosunits/src/gemdos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tosunits/src/xbios.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
