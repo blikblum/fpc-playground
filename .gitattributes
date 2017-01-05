@@ -8614,6 +8614,7 @@ rtl/arm/thumb2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aros/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native svn_eol_002dstyle=native
 rtl/aros/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native svn_eol_002dstyle=native
 rtl/aros/arm/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aros/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aros/doslibd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native svn_eol_002dstyle=native
 rtl/aros/i386 svn_eol_002dtype=native
 rtl/aros/i386/doslibf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8623,6 +8624,7 @@ rtl/aros/i386/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aros/i386/utild1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aros/i386/utild2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aros/i386/utilf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/aros/si_prc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aros/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native svn_eol_002dstyle=native
 rtl/aros/timerd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native svn_eol_002dstyle=native
 rtl/aros/x86_64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
