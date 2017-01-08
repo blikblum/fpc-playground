@@ -13532,6 +13532,7 @@ tests/test/units/system/tres5.rc svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 tests/test/units/system/tresb.rc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tresb.res svn_mime_002dtype=application%2Foctet-stream
 tests/test/units/system/tresext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/system/trnd1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/system/tround.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tseg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/system/tsetstr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
