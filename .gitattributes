@@ -8820,7 +8820,8 @@ rtl/embedded/arm/mk20d5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nat
 rtl/embedded/arm/mk20d7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/arm/mk22f51212.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/mk64f12.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
-rtl/embedded/arm/nrf52832.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/arm/nrf51.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/arm/nrf52.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/sam3x8e.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/sc32442b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/arm/stm32f0xx.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
