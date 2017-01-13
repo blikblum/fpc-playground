@@ -3131,6 +3131,11 @@ packages/fcl-web/examples/jsonrpc/extdirect/extdemo.lpr svn_mime_002dtype=text%2
 packages/fcl-web/examples/jsonrpc/extdirect/extdirect.in svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/wmext.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/wmext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/routing/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/routing/demorouting.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/routing/demorouting.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/routing/routes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/routing/sample.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/session/sessiondemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/session/sessiondemo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/session/wmsession.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3232,9 +3237,11 @@ packages/fcl-web/src/base/fpwebclient.pp svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-web/src/base/fpwebfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/httpdefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/httpprotocol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/base/httproute.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/iniwebsession.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/restbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/restcodegen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/base/tcwebmodule.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/webpage.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/websession.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/webutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3261,8 +3268,11 @@ packages/fcl-web/tests/cgigateway.lpi svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-web/tests/cgigateway.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/tests/fpcunithpack.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/tests/fpcunithpack.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/tests/tchttproute.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/tests/testcgiapp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/tests/testcgiapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/tests/testfpweb.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/tests/testfpweb.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/tests/uhpacktest1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
