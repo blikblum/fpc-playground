@@ -16483,6 +16483,11 @@ utils/javapp/src/fpc/tools/javapp/StackMapTableData.java svn_mime_002dtype=text%
 utils/javapp/src/fpc/tools/javapp/Tables.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/TrapData.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/javapp/src/fpc/tools/javapp/TypeSignature.java svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/json2pas/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/json2pas/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/json2pas/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/json2pas/json2pas.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/json2pas/json2pas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mkinsadd.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/mksymbian/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
