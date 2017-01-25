@@ -2665,6 +2665,7 @@ packages/fcl-registry/src/winreg.inc svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-registry/src/xmlreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-registry/src/xregreg.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-registry/tests/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-registry/tests/tcxmlreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-registry/tests/testbasics.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-registry/tests/tregistry2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
