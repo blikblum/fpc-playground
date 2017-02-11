@@ -13316,6 +13316,7 @@ tests/test/twrstr6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twrstr7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twrstr8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/twrstr9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tx64ccnv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uabstrcl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uchlp12.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/uchlp18.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
