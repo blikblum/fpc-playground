@@ -12837,6 +12837,7 @@ tests/test/tmcbool2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmmx1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmoperator1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tmoperator10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tmoperator11.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tmoperator2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tmoperator3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tmoperator4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
