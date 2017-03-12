@@ -2572,6 +2572,7 @@ packages/fcl-passrc/src/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-passrc/tests/tcbaseparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcclasstype.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcexprparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/tests/tcgenerics.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcmoduleparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tconstparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcpassrcutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
