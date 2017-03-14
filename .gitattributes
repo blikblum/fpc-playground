@@ -2565,6 +2565,7 @@ packages/fcl-passrc/src/pasresolver.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-passrc/src/passrcutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/pastounittest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/pastree.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/src/pasuseanalyzer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/paswrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/pparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/pscanner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2581,6 +2582,7 @@ packages/fcl-passrc/tests/tcresolver.pas svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-passrc/tests/tcscanner.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcstatements.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tctypeparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/tests/tcuseanalyzer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcvarparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/testpassrc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/testpassrc.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
