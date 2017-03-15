@@ -6029,6 +6029,10 @@ packages/libtar/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libtar/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libtar/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libtar/src/libtar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libusb/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libusb/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libusb/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libusb/src/libusb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libvlc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libvlc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libvlc/example/testvlc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
