@@ -12168,7 +12168,9 @@ tests/test/tarrconstr2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nati
 tests/test/tarrconstr3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tarrconstr4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tasm1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
