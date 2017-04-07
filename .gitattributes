@@ -11700,6 +11700,7 @@ tests/test/cg/tmoddiv1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tmoddiv2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tmul3264.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tneg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/tnegnotassign1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tnot.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tobjsiz2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tobjsize.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11730,6 +11731,7 @@ tests/test/cg/ttryfin5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tumin.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tvec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/uandorxorassign.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/unegnotassign.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/uprintf3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/variants/ivarol10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/variants/ivarol100.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
