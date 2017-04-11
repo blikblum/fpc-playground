@@ -3417,6 +3417,8 @@ packages/fppkg/tests/fppkg_tests.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fppkg/tests/fullfpcinstallationtests.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/tests/packages/base/packagea/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/tests/packages/base/packagea/src/PackageAUnitA.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fppkg/tests/packages/base/packageb/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fppkg/tests/packages/base/packageb/src/PackageBUnitB.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/tests/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fuse/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fuse/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
