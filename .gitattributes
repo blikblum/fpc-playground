@@ -5108,6 +5108,13 @@ packages/libgbafpc/src/maxmod/inc svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libgbafpc/src/maxmod/inc/maxmod.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/maxmod/inc/mm_types.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/src/maxmod/maxmod.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgc/examples/create_leak.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgc/examples/testcmem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgc/examples/usage.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libgc/src/gcmem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
