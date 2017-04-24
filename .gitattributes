@@ -13134,6 +13134,7 @@ tests/test/tpointermath2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=na
 tests/test/tpointermath3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tpoll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tpopcnt1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tpopcnt2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tprec1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tprec11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
