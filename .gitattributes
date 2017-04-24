@@ -12232,6 +12232,7 @@ tests/test/tblock2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tbopr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tbrtlevt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tbsx1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tbsx2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcas128.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase0.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
