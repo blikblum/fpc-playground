@@ -518,6 +518,7 @@ compiler/optdead.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optdeadstore.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/optdfa.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/options.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/optloadmodifystore.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optloop.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/opttail.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
