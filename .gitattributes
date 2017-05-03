@@ -3430,6 +3430,12 @@ packages/fppkg/tests/packages/base/packagevarianta/src/packagevariantbaseunit.pp
 packages/fppkg/tests/packages/base/packagevarianta/src/packagevariantversionbonly.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fppkg/tests/packages/base/packagevariantp/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fppkg/tests/packages/base/packagevariantp/src/packagevariantp.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fppkg/tests/packages/specific/plugindependencies/packageusingplugin/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fppkg/tests/packages/specific/plugindependencies/packageusingplugin/src/packageusingpluginunit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fppkg/tests/packages/specific/plugindependencies/plugindependency/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fppkg/tests/packages/specific/plugindependencies/plugindependency/src/plugindependencyunit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fppkg/tests/packages/specific/plugindependencies/pluginpackage/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fppkg/tests/packages/specific/plugindependencies/pluginpackage/src/pluginunit.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fppkg/tests/packages/specific/transmitoptions/packagea/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fppkg/tests/packages/specific/transmitoptions/packagea/src/PackageAUnitA.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fppkg/tests/packages/specific/transmitoptions/packageb1/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
