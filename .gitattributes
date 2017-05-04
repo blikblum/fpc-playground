@@ -12567,6 +12567,7 @@ tests/test/tforin24.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin25.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin26.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin27.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tforin28.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tforin5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
