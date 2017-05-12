@@ -3421,6 +3421,7 @@ packages/fppkg/src/pkguninstalledsrcsrepo.pp svn_mime_002dtype=text%2Fplain svn_
 packages/fppkg/src/pkgwget.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/tests/fppkg_tests.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/tests/fullfpcinstallationtests.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fppkg/tests/packages/base/brokenpackage/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fppkg/tests/packages/base/packagea/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/tests/packages/base/packagea/src/PackageAUnitA.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/tests/packages/base/packageb/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
