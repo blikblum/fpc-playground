@@ -3402,6 +3402,7 @@ packages/fppkg/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fppkg/repositorylogics.dia svn_mime_002dtype=application%2Fx-gzip
 packages/fppkg/src/fpmkunitsrc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/fprepos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fppkg/src/fpxmlrep.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
