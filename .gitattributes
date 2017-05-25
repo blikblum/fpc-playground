@@ -2562,6 +2562,7 @@ packages/fcl-passrc/examples/parsepp.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/fcl-passrc/examples/test_parser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/examples/testunit1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/src/pasresolveeval.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/pasresolver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/passrcutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/src/pastounittest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
