@@ -2602,6 +2602,7 @@ packages/fcl-pdf/src/fppdf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fcl-pdf/src/fpttf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/src/fpttfencodings.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/src/fpttfsubsetter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-pdf/tests/fontlist.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/tests/fonts/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/tests/fpparsettf_test.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/tests/fppdf_test.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
