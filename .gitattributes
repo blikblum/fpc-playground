@@ -640,6 +640,7 @@ compiler/ppcmipsel.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcppc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcppc64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcsparc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcsparc64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppheap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppx86_64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -696,6 +697,7 @@ compiler/sparc/rspsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/sparc/spreg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/sparc/strinst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/sparc64/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/switches.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/symbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/symconst.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
