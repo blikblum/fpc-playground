@@ -8796,6 +8796,7 @@ rtl/charmaps/cp437.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp646.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp850.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp852.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/charmaps/cp855.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp856.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp866.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp874.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -10113,6 +10114,7 @@ rtl/ucmaps/cp1256.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp1257.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp1258.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp852.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/ucmaps/cp855.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp856.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp874.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp895.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
