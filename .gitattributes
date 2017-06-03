@@ -7474,6 +7474,8 @@ packages/rtl-unicode/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/rtl-unicode/src/collations svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/rtl-unicode/src/collations/buildcollations.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-unicode/src/collations/collation_de.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-unicode/src/collations/collation_de_be.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-unicode/src/collations/collation_de_le.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-unicode/src/collations/collation_es.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-unicode/src/collations/collation_es_be.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-unicode/src/collations/collation_es_le.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
