@@ -9549,7 +9549,7 @@ rtl/linux/sparc/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/linux/sparc/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sparc/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sparc/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/sparc/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/sparcgen/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/suuid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sysnr-gen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
