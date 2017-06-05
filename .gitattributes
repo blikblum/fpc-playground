@@ -10164,6 +10164,7 @@ rtl/ucmaps/cp1255.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp1256.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp1257.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp1258.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/ucmaps/cp3021.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp437.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp737.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp775.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
