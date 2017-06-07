@@ -8815,6 +8815,7 @@ rtl/charmaps/cp1255.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp1256.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp1257.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp1258.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/charmaps/cp3021.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp437.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp646.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp737.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
