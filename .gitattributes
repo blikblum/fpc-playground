@@ -8850,6 +8850,8 @@ rtl/charmaps/cp8859_7.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nati
 rtl/charmaps/cp8859_8.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cp8859_9.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/charmaps/cpall.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/charmaps/cpkoi8_r.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/charmaps/cpkoi8_u.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/darwin/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/darwin/aarch64/sig_cpu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10190,6 +10192,8 @@ rtl/ucmaps/cp932.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp936.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp949.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/ucmaps/cp950.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/ucmaps/koi8-r.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/ucmaps/koi8-u.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/aliasctp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/aliasptp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/baseunix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
