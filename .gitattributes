@@ -677,6 +677,7 @@ compiler/sparc/rspstab.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/sparc/rspstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/rspsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc64/cgcpu.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/sparc64/cpugas.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/sparc64/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc64/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc64/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
