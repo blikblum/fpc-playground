@@ -2498,11 +2498,13 @@ packages/fcl-js/src/jsbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fcl-js/src/jsminifier.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jsparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jsscanner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-js/src/jssrcmap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jstoken.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jstree.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jswriter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/tests/tcparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/tests/tcscanner.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-js/tests/tcsrcmap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/tests/tcwriter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/tests/testjs.ico svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-js/tests/testjs.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
