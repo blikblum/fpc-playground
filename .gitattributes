@@ -691,6 +691,7 @@ compiler/sparc64/rsp64sri.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=
 compiler/sparc64/rsp64stab.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/sparc64/rsp64std.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/sparc64/rsp64sup.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/sparc64/tgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparcgen/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparcgen/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparcgen/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
