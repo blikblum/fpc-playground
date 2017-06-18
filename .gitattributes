@@ -7125,7 +7125,6 @@ packages/ptc/src/core/surfacei.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_0
 packages/ptc/src/core/timerd.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/core/timeri.inc svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/dos svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native
-packages/ptc/src/dos/base/go32fix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/dos/base/kbd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/dos/base/kbdd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/dos/base/mouse33h.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7146,6 +7145,8 @@ packages/ptc/src/dos/vga/vga.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/ptc/src/dos/vga/vgaconsoled.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/dos/vga/vgaconsolei.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/ptc.pp svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/ptclaz.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/ptclaz.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/ptcpas.cfg svnc_mime_002dtype=text%2Fx-pascal svnc_eol_002dstyle=native svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/ptcwrapper/ptceventqueue.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/ptcwrapper/ptcwrapper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7170,6 +7171,7 @@ packages/ptc/src/win32/base/win32window.inc svn_mime_002dtype=text%2Fplain svn_e
 packages/ptc/src/win32/base/win32windowd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/base/windows.ico svn_mime_002dtype=application%2Foctet-stream
 packages/ptc/src/win32/directx/p_ddraw.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/p_dinput.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/directx/win32directxcheck.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/directx/win32directxconsoled.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/directx/win32directxconsolei.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7229,6 +7231,7 @@ packages/ptc/src/x11/x11windowdisplayd.inc svn_mime_002dtype=text%2Fplain svn_eo
 packages/ptc/src/x11/x11windowdisplayi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/tests/convtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/tests/endian.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/tests/event.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/tests/view.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pthreads/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pthreads/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
