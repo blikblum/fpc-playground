@@ -10135,10 +10135,13 @@ rtl/sparc/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/sparc64/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc64/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc64/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc64/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/sparc64/sparc64.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/sparc64/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/sparc64/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/symbian/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
