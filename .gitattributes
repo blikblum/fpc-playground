@@ -7231,6 +7231,11 @@ packages/ptc/src/x11/x11unikey.inc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/ptc/src/x11/x11windowdisplayd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/x11/x11windowdisplayi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/tests/convtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/tests/crtkeys/crtkeys.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/tests/crtkeys/crtkeys_fpwincrt.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/tests/crtkeys/crtkeys_go32v2.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/tests/crtkeys/crtkeys_tp7.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/tests/crtkeys/ptccrtkeys.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/tests/endian.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/tests/event.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/tests/view.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
