@@ -7246,6 +7246,7 @@ packages/pthreads/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/pthreads/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pthreads/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pthreads/src/pthraix.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pthreads/src/pthrandroid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pthreads/src/pthrbeos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pthreads/src/pthrbsd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pthreads/src/pthreads.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
