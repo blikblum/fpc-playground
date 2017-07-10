@@ -15753,6 +15753,7 @@ tests/webtbs/tw3197.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3207.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3210.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw32111.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/webtbs/tw32118.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw3212.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3214.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3216.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
