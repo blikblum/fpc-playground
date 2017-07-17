@@ -9917,6 +9917,7 @@ rtl/objpas/sysutils/filutil.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 rtl/objpas/sysutils/filutilh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/fina.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/finah.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/objpas/sysutils/fmtflt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/intfh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/osutil.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/objpas/sysutils/osutilsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
