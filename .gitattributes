@@ -2689,6 +2689,7 @@ packages/fcl-registry/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-registry/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-registry/examples svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/fcl-registry/examples/remotereg.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fcl-registry/examples/testunicode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-registry/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-registry/src/regdef.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-registry/src/regini.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
