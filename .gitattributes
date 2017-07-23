@@ -8806,6 +8806,8 @@ rtl/bsd/bunxfunch.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/bunxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/i386/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/i386/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/bsd/m68k/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/bsd/m68k/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/osmacro.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/bsd/osmain.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
