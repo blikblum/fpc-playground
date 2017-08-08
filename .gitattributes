@@ -9798,6 +9798,7 @@ rtl/netbsd/m68k/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/netbsd/pmutext.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/powerpc/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/powerpc/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/netbsd/powerpc/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/powerpc/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/powerpc/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/netbsd/pthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
