@@ -9445,6 +9445,7 @@ rtl/java/objpash.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/rtti.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/java/rttih.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/java/sysres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
