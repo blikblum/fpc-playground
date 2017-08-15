@@ -2663,6 +2663,8 @@ packages/fcl-process/examples/ipcserver.lpi svn_mime_002dtype=text%2Fplain svn_e
 packages/fcl-process/examples/ipcserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/simpleipcserver.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/simpleipcserver.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/examples/threadedipc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/examples/threadedipc.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/waitonexit.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-process/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/amicommon/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
