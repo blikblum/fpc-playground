@@ -5162,6 +5162,12 @@ packages/libenet/src/enetprotocol.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/libenet/src/enettime.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libenet/src/enettypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libenet/src/uenetclass.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libfontconfig/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libfontconfig/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libfontconfig/examples/testfc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libfontconfig/examples/testfc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libfontconfig/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libfontconfig/src/libfontconfig.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgbafpc/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
