@@ -3411,8 +3411,8 @@ packages/fcl-web/tests/uhpacktest1.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-xml/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-xml/buildfcl-xml.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-xml/buildfcl-xml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-xml/buildfclxml.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-xml/buildfclxml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/src/dom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
