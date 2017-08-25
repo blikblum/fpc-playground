@@ -12595,6 +12595,7 @@ tests/test/tchlp55.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tchlp56.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tchlp57.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tchlp58.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tchlp59.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tchlp6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tchlp7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tchlp8.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
