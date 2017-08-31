@@ -5166,6 +5166,7 @@ packages/libffi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libffi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libffi/examples/simple.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/libffi/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/libffi/src/ffi.manager.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/libffi/src/ffi.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/libfontconfig/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libfontconfig/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
