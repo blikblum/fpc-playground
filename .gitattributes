@@ -2587,6 +2587,8 @@ packages/fcl-passrc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/fcl-passrc/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/examples/parsepp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/examples/pasrewrite.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/examples/pasrewrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/examples/test_parser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/examples/testunit1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
