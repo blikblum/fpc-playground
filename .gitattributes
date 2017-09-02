@@ -2756,8 +2756,6 @@ packages/fcl-report/demos/rptmasterdetaildataset.pp svn_mime_002dtype=text%2Fpla
 packages/fcl-report/demos/rptshapes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptsimplelist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptttf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-report/demos/test.dbf svn_mime_002dtype=application%2Foctet-stream
-packages/fcl-report/demos/test.dbt svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/demos/udapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/webdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/webdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
