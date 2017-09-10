@@ -13085,6 +13085,7 @@ tests/test/tinterface3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/tinterface4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterface5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterface6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tinterlocked64mt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterlockedmt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinterrupt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tintfcdecl1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
