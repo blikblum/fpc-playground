@@ -13598,6 +13598,7 @@ tests/test/tthlp21.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tthlp22.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tthlp23.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tthlp24.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tthlp25.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tthlp3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tthlp4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tthlp5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
