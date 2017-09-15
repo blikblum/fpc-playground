@@ -10183,6 +10183,7 @@ rtl/palmos/m68k/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/palmos/palmos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/palmos/pilot.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/palmos/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/palmos/si_prc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/palmos/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/palmos/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/palmos/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
