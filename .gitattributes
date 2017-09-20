@@ -8892,6 +8892,7 @@ rtl/beos/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/osmacro.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/ossysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/ostypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/beos/pthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/ptypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/beos/settimeo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
