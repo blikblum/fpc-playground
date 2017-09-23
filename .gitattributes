@@ -2427,6 +2427,8 @@ packages/fcl-image/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/fcl-image/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/createbarcode.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/createbarcode.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/drawing.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/imgconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/interpoldemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2438,6 +2440,7 @@ packages/fcl-image/src/bmpcomn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/fcl-image/src/clipping.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/ellipses.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/extinterpolation.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/src/fpbarcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpbrush.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpcanvas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpcanvas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2452,6 +2455,7 @@ packages/fcl-image/src/fphandler.inc svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-image/src/fphelper.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpimage.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpimage.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/src/fpimgbarcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpimgcanv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpimgcmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpimggauss.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2489,6 +2493,9 @@ packages/fcl-image/src/pngcomn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/fcl-image/src/pscanvas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/targacmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/xwdfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/test/tcbarcodes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/test/testfpimage.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/test/testfpimage.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
