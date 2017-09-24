@@ -2753,6 +2753,7 @@ packages/fcl-report/demos/polygon/testpolygon.lpi svn_mime_002dtype=text%2Fplain
 packages/fcl-report/demos/polygon/testpolygon.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/polygon/testpolygon.res svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/demos/regreports.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/demos/rptbarcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptcolumns.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptcontnr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptdataset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2776,6 +2777,7 @@ packages/fcl-report/src/fpextfuncs.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-report/src/fpjsonreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fprepexprpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/src/fpreportbarcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportcanvashelper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportcheckbox.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportcontnr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
