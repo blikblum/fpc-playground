@@ -2770,6 +2770,8 @@ packages/fcl-report/demos/rptnestedgroups.pp svn_mime_002dtype=text%2Fplain svn_
 packages/fcl-report/demos/rptshapes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptsimplelist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptttf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/demos/txt2pdf.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/demos/txt2pdf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/udapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/webdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/webdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
