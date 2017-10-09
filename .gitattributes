@@ -10908,6 +10908,7 @@ tests/tbf/tb0254b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbf/tb0255a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbf/tb0255b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbf/tb0255c.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/tbf/tb0256.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbf/ub0115.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/ub0149.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbf/ub0158a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
