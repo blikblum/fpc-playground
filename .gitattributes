@@ -2429,10 +2429,14 @@ packages/fcl-image/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-image/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/createbarcode.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/createbarcode.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/createqrcode.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/createqrcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/drawing.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/imgconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/interpoldemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/pattern.png svn_mime_002dtype=image%2Fpng
+packages/fcl-image/examples/qrdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/qrdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/textout.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/xwdtobmp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2459,10 +2463,12 @@ packages/fcl-image/src/fpimgbarcode.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-image/src/fpimgcanv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpimgcmn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpimggauss.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/src/fpimgqrcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpinterpolation.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fppalette.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fppen.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fppixlcanv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/src/fpqrcodegen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpquantizer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpreadbmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/fpreadgif.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
