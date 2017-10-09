@@ -2773,6 +2773,7 @@ packages/fcl-report/demos/rptjson.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-report/demos/rptmasterdetail.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptmasterdetaildataset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptnestedgroups.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/demos/rptqrcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptshapes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptsimplelist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/rptttf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2799,6 +2800,7 @@ packages/fcl-report/src/fpreporthtmlparser.pp svn_mime_002dtype=text%2Fplain svn
 packages/fcl-report/src/fpreporthtmlutil.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportjson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportpdfexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/src/fpreportqrcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportstreamer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/test/fonts/LiberationSerif-Regular.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/test/fonts/calibri.ttf svn_mime_002dtype=application%2Foctet-stream
