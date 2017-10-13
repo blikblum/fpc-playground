@@ -12517,6 +12517,11 @@ tests/test/tasm11c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm12a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm12b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm12c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm13a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm13b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm13c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm13d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm13e.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
