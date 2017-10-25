@@ -12235,6 +12235,7 @@ tests/test/cg/variants/tvarol91.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 tests/test/cg/variants/tvarol94.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/variants/tvarol96.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tasm16_32_1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/cpu16/i8086/tasm16_32_2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tasmseg1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tfarcal1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tfarcal2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
