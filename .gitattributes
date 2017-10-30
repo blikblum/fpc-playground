@@ -12552,6 +12552,7 @@ tests/test/tasm6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tasm8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tasmpublic1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tasmread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasout.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tassignmentoperator1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
