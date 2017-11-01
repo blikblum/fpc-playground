@@ -109,6 +109,7 @@ compiler/avr/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/avrreg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
+compiler/avr/ccpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -120,6 +121,7 @@ compiler/avr/hlcgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/navradd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/navrcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/avr/navrinl.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/avr/navrmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/navrmem.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/avr/navrutil.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -8895,7 +8897,9 @@ rtl/atari/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/xbios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/avr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/avr/cpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/avr/intrinsics.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/avr/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
