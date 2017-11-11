@@ -2149,6 +2149,8 @@ packages/fcl-db/src/datadict/fpddmysql41.pp svn_mime_002dtype=text%2Fplain svn_e
 packages/fcl-db/src/datadict/fpddmysql50.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/datadict/fpddmysql51.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/datadict/fpddmysql55.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/datadict/fpddmysql56.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/datadict/fpddmysql57.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/datadict/fpddodbc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/datadict/fpddoracle.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/datadict/fpddpq.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
