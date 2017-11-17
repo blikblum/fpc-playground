@@ -159,6 +159,7 @@ compiler/constexp.pas svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 compiler/cpid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/crefs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cresstr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/cscript.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cstreams.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cwindirs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -661,7 +662,6 @@ compiler/rgbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/rgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/scandir.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/scanner.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/script.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/cgcpu.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/sparc/cpuelf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
