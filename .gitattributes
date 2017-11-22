@@ -12264,6 +12264,7 @@ tests/test/cpu16/i8086/tasmabs3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002ds
 tests/test/cpu16/i8086/tasmabs4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tasmabs5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tasmseg1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/cpu16/i8086/tasmseg2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tfarcal1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tfarcal2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tfarcal3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
