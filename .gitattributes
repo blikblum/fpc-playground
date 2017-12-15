@@ -10540,6 +10540,7 @@ rtl/win16/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win16/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/win31.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/winprocs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/winprocs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
