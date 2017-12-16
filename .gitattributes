@@ -7449,6 +7449,7 @@ packages/rtl-console/src/inc/videoh.inc svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/rtl-console/src/msdos/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/msdos/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/msdos/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-console/src/msdos/vesamode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/msdos/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/netware/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/netware/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
