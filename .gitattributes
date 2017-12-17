@@ -17037,6 +17037,8 @@ utils/pas2js/pas2jsfilecache.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 utils/pas2js/pas2jsfileutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/pas2jsfileutilsunix.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/pas2jsfileutilswin.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/pas2jslib.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/pas2jslib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/pas2jslogger.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/pas2jspparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/samples/arraydemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
