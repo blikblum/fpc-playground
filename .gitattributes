@@ -7767,6 +7767,7 @@ packages/tosunits/examples/higem.pas svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/tosunits/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/src/aes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/src/gemdos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tosunits/src/vdi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/src/xbios.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
