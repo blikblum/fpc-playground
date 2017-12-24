@@ -7763,6 +7763,7 @@ packages/tcl/tests/test.tcl svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 packages/tosunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tosunits/examples/gemcube.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/examples/gemwin.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/examples/higem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
