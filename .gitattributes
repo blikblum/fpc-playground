@@ -644,6 +644,7 @@ compiler/ppcppc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcppc64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcsparc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcsparc64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcx86_64llvm.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppheap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppx86_64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
