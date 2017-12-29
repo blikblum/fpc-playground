@@ -2497,6 +2497,7 @@ packages/fcl-image/src/fpwritetiff.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-image/src/fpwritexpm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/freetype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/freetypeh.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/src/freetypehdyn.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/ftfont.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/libfreetype.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/src/pcxcomn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
