@@ -17042,10 +17042,14 @@ utils/pas2jni/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2jni/writer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/compileserver.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/compileserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/dirwatch.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/dist/rtl.js svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/docs/translation.html svn_mime_002dtype=text%2Fhtml svn_eol_002dstyle=native
 utils/pas2js/fpmake.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/httpcompiler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/pas2js.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/pas2js.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/pas2js.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
