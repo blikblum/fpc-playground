@@ -6867,6 +6867,7 @@ packages/os4units/src/workbench.pas svn_mime_002dtype=text%2Fpascal svn_eol_002d
 packages/palmunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/palmunits/examples/hello.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/src/aboutbox.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/palmunits/src/alarmmgr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
