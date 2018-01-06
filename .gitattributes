@@ -9314,6 +9314,7 @@ rtl/embedded/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/system.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysutils.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
