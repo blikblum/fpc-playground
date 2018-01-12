@@ -12083,6 +12083,7 @@ tests/test/cg/tmoddiv1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tmoddiv2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tmoddiv3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cg/tmoddiv4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/cg/tmoddiv5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cg/tmul3264.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tneg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tnegnotassign1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
