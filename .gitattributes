@@ -3043,6 +3043,8 @@ packages/fcl-web/examples/echo/cgi/echo.res svn_mime_002dtype=application%2Focte
 packages/fcl-web/examples/echo/fcgi/echo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/echo/fcgi/echo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/echo/fcgi/echo.res svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-web/examples/echo/fphttp/echo.lpi svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
+packages/fcl-web/examples/echo/fphttp/echo.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-web/examples/echo/webmodule/wmecho.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/echo/webmodule/wmecho.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/fptemplate/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
