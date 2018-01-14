@@ -11608,6 +11608,7 @@ tests/tbs/tb0631.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb0632.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb0633.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb0634.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/tbs/tb0635.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb205.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/tb610.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/tb613.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11648,6 +11649,7 @@ tests/tbs/ub0489b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/ub0506.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/tbs/ub0569.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/tbs/ub0629.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/tbs/ub0635.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/alglib/t_testconvunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/alglib/t_testcorrunit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
