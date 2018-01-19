@@ -3293,6 +3293,7 @@ packages/fcl-web/src/base/custapache24.pp svn_mime_002dtype=text%2Fplain svn_eol
 packages/fcl-web/src/base/custcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/custfcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/custhttpapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/base/custhttpsys.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-web/src/base/custweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/ezcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fcgigate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3307,6 +3308,7 @@ packages/fcl-web/src/base/fphttpapp.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-web/src/base/fphttpclient.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fphttpserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fphttpstatus.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/base/fphttpsys.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-web/src/base/fphttpwebclient.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fpjwt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fpoauth2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
