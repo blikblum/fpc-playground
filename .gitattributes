@@ -12084,6 +12084,7 @@ tests/test/cg/tldparam.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tloadvmt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tlohi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tlohi2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/cg/tm128.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cg/tmanypar.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tmoddiv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tmoddiv1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
