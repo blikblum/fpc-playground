@@ -12344,6 +12344,7 @@ tests/test/cpu16/i8086/tptrsize.pp svn_mime_002dtype=text%2Fpascal svn_eol_002ds
 tests/test/cpu16/i8086/tra1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tretf1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cpu16/i8086/tretf2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cpu16/i8086/tsegofs1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cpu16/i8086/ttasm1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cpu16/i8086/ttheap1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cpu16/taddint1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
