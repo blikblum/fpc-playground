@@ -13770,6 +13770,7 @@ tests/test/tudots.dot.prog.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=
 tests/test/tudots.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tudots.prog.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tudots.test.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tuglylabels1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunaligned1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
