@@ -12622,6 +12622,7 @@ tests/test/tasm15.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm15a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm16.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm17.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm18.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
