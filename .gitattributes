@@ -12128,6 +12128,9 @@ tests/test/cg/ttryfin4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/ttryfin5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tumin.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tvec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/tvectorcall1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/cg/tvectorcall2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/cg/tvectorcall3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cg/uandorxorassign.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/unegnotassign.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/uprintf3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
