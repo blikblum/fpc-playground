@@ -8921,6 +8921,7 @@ rtl/atari/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/gemdos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/atari/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/si_prc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
