@@ -7098,7 +7098,6 @@ packages/pastojs/tests/tcoptimizations.pas svn_mime_002dtype=text%2Fplain svn_eo
 packages/pastojs/tests/tcsrcmap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/testpas2js.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/testpas2js.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/pastojs/todo.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
