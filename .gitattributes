@@ -7096,6 +7096,7 @@ packages/pastojs/tests/tcfiler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/pastojs/tests/tcmodules.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/tcoptimizations.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/tcsrcmap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/tests/tcunitsearch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/testpas2js.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/testpas2js.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/paszlib/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
