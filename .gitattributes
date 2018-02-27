@@ -12650,6 +12650,7 @@ tests/test/tasm21a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm21b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm22.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm23.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm24.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
