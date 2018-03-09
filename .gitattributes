@@ -7628,6 +7628,15 @@ packages/rtl-generics/src/generics.strings.pas svn_mime_002dtype=text%2Fpascal s
 packages/rtl-generics/src/inc svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/rtl-generics/src/inc/generics.dictionaries.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-generics/src/inc/generics.dictionariesh.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/tests/testrunner.rtlgenerics.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-generics/tests/testrunner.rtlgenerics.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/tests/tests.generics.arrayhelper.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/tests/tests.generics.bugs.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/tests/tests.generics.hashmaps.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/tests/tests.generics.sets.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/tests/tests.generics.stdcollections.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/tests/tests.generics.trees.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/tests/tests.generics.utils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-objpas/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
