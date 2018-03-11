@@ -12137,6 +12137,7 @@ tests/test/cg/traise6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/treadwrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tsar1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cg/tshlshr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/tsmallrec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tstr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tsubst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/ttincdec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
