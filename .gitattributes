@@ -2711,6 +2711,11 @@ packages/fcl-report/src/fpreportbarcode.pp svn_mime_002dtype=text%2Fplain svn_eo
 packages/fcl-report/src/fpreportcanvashelper.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportcheckbox.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportcontnr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/src/fpreportdata.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/src/fpreportdatacsv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/src/fpreportdatadbf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/src/fpreportdatajson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/src/fpreportdatasqldb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportdom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportfpimageexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
