@@ -2012,6 +2012,7 @@ packages/fcl-db/examples/loadlibdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/fcl-db/examples/logsqldemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/logsqldemo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/pqeventstest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/examples/showcsv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/sqlite3loadlib.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/sqlparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
