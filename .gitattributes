@@ -7615,6 +7615,14 @@ packages/rtl-generics/examples/thashmapcaseinsensitive/thashmapcaseinsensitive.l
 packages/rtl-generics/examples/thashmapextendedequalitycomparer svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/rtl-generics/examples/thashmapextendedequalitycomparer/thashmapextendedequalitycomparer.lpi svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 packages/rtl-generics/examples/thashmapextendedequalitycomparer/thashmapextendedequalitycomparer.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/examples/thashset/thashset_exceptwith.lpi svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
+packages/rtl-generics/examples/thashset/thashset_exceptwith.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/examples/thashset/thashset_intersectwith.lpi svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
+packages/rtl-generics/examples/thashset/thashset_intersectwith.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/examples/thashset/thashset_symmetricexceptwith.lpi svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
+packages/rtl-generics/examples/thashset/thashset_symmetricexceptwith.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/examples/thashset/thashset_unionwith.lpi svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
+packages/rtl-generics/examples/thashset/thashset_unionwith.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-generics/examples/tobjectlist svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/rtl-generics/examples/tobjectlist/tobjectlistproject.lpi svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 packages/rtl-generics/examples/tobjectlist/tobjectlistproject.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
