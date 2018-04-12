@@ -12706,6 +12706,7 @@ tests/test/tasm25ss0.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm25ss1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm25ss2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm25ss3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tasm26.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm2a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tasm4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
