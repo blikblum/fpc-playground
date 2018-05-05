@@ -2705,6 +2705,7 @@ packages/fcl-report/demos/wmreports.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-report/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpextfuncs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpjsonreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/src/fplazreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fprepexprpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportbarcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
