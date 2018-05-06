@@ -2661,6 +2661,8 @@ packages/fcl-report/demos/fonts/LiberationSerif-Bold.ttf svn_mime_002dtype=appli
 packages/fcl-report/demos/fonts/LiberationSerif-BoldItalic.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/demos/fonts/LiberationSerif-Italic.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/demos/fonts/LiberationSerif-Regular.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/laz2fpreport.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/demos/laz2fpreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/pictures/man01.png svn_mime_002dtype=image%2Fpng
 packages/fcl-report/demos/pictures/man02.png svn_mime_002dtype=image%2Fpng
 packages/fcl-report/demos/pictures/man03.png svn_mime_002dtype=image%2Fpng
