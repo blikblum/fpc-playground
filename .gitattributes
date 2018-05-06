@@ -13864,6 +13864,7 @@ tests/test/tudots2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tudots3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tudots4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tudots5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tudots6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tuglylabels1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunaligned1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunistr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
