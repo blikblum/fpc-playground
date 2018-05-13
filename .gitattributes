@@ -6866,6 +6866,7 @@ packages/os4units/src/amigados.pas svn_mime_002dtype=text%2Fpascal svn_eol_002ds
 packages/os4units/src/asl.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/clipboard.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/cybergraphics.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/os4units/src/datatypes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/diskfont.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/exec.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/icon.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
