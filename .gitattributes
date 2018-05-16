@@ -164,6 +164,7 @@ compiler/cstreams.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cwindirs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/dbgbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/dbgcodeview.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/dbgdwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/dbgstabs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/dbgstabx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
