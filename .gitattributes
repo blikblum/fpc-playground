@@ -13884,6 +13884,7 @@ tests/test/tunit1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunit3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tunroll1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tunroll2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tutf81.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tutf82.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tutf8cpl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
