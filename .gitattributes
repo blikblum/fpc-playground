@@ -12120,6 +12120,7 @@ tests/test/cg/tdivz1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tdivz2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/texit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tfor.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/tfor2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cg/tformfnc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tfuncret.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tin.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
