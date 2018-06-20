@@ -9595,6 +9595,7 @@ rtl/inc/pagemem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/real2str.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/resh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/rtti.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/rttidecl.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/rttih.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/sfpu128.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/inc/sfpux80.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
