@@ -12886,6 +12886,8 @@ tests/test/tclass13d.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass14a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass14b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass15.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclass16.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclass17.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclass2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
