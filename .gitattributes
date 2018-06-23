@@ -17302,6 +17302,8 @@ utils/pas2js/samples/hello.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 utils/pas2js/samples/ifdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/samples/repeatdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/samples/whiledemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/webidl2pas.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/webidl2pas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2ut/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2ut/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2ut/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
