@@ -1974,6 +1974,7 @@ packages/fcl-base/src/netwlibc/custapp.inc svn_mime_002dtype=text%2Fplain svn_eo
 packages/fcl-base/src/nullstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/os2/custapp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/os2/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/src/pascodegen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/pooledmm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/rtfdata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/rtfpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
