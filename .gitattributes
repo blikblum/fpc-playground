@@ -7640,6 +7640,7 @@ packages/rtl-generics/examples/tstack svnc_bugtraq_003aurl svnc_bugtraq_003alogr
 packages/rtl-generics/examples/tstack/tstackproject.lpi svn_mime_002dtype=text%2Fxml svn_eol_002dstyle=native
 packages/rtl-generics/examples/tstack/tstackproject.lpr svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-generics/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-generics/src svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/rtl-generics/src/generics.collections.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-generics/src/generics.defaults.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
