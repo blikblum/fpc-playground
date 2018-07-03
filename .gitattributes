@@ -9523,6 +9523,7 @@ rtl/haiku/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/cpu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/i386/cpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/fastmove.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/i386.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9537,6 +9538,7 @@ rtl/i386/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/cpu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/i8086/cpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/hugeptr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/i8086.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i8086/int32p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10689,6 +10691,7 @@ rtl/wince/wininc/struct.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/wince/winres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/cpu.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/x86_64/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/x86_64/cpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
