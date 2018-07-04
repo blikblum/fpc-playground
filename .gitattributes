@@ -3470,6 +3470,7 @@ packages/fpindexer/src/ireaderhtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fpindexer/src/ireaderpas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/src/ireadertxt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/src/memindexdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpindexer/src/pgindexdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/src/sqldbindexdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/src/sqliteindexdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
