@@ -9532,6 +9532,8 @@ rtl/i386/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/mmx.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/i386/ports.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/i386/portsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
