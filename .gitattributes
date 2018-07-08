@@ -3460,7 +3460,14 @@ packages/fpindexer/examples/TestIndexer.lpi svn_mime_002dtype=text%2Fplain svn_e
 packages/fpindexer/examples/TestIndexer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/examples/TestSearch.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/examples/TestSearch.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpindexer/examples/docindexer.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpindexer/examples/docindexer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/examples/english.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpindexer/examples/httpsearch.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpindexer/examples/httpsearch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpindexer/examples/httpsearcher.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpindexer/examples/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fpindexer/examples/sample.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/src/dbindexer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fpindexer/src/fbindexdb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
