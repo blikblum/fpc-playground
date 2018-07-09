@@ -10711,6 +10711,8 @@ rtl/x86_64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/x86_64/ports.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/x86_64/portsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
