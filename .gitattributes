@@ -10629,6 +10629,7 @@ rtl/win16/glbheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/glbheaph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/locheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/locheaph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win16/ports.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/prt0c.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/prt0comn.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win16/prt0h.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
