@@ -7458,6 +7458,7 @@ packages/regexpr/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/regexpr/examples/splitwords.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/examples/splitwords.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/examples/testreg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/regexpr/examples/testure.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/src/old/regexpr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/regexpr/src/oldregexpr.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
