@@ -3220,6 +3220,8 @@ packages/fcl-web/examples/jsonrpc/extdirect/extdemo.lpr svn_mime_002dtype=text%2
 packages/fcl-web/examples/jsonrpc/extdirect/extdirect.in svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/wmext.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/wmext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/routing-session/routingsessiondemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/routing-session/routingsessiondemo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/routing/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/routing/demorouting.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/routing/demorouting.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
