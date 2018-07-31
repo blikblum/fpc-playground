@@ -2495,6 +2495,8 @@ packages/fcl-net/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-net/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/examples/cnslookup.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/examples/ip6test.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-net/examples/isockcli.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-net/examples/isocksvr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/examples/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/examples/rpccli.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-net/examples/rpcserv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
