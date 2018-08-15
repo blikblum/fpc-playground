@@ -2009,6 +2009,7 @@ packages/fcl-db/examples/createsql.lpi svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-db/examples/createsql.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/dbftool.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/dbftool.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/examples/demotypesafeaccess.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/fbadmindemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/fbeventstest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/loadlibdemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2019,6 +2020,8 @@ packages/fcl-db/examples/pqeventstest.pp svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-db/examples/showcsv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/sqlite3loadlib.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/sqlparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/examples/tsamytable.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/examples/typesafetable.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/Dataset.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2035,6 +2038,7 @@ packages/fcl-db/src/base/dbcoll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-db/src/base/dbconst.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/dbwhtml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/dsparams.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/base/fieldmap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/fields.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/base/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2047,8 +2051,10 @@ packages/fcl-db/src/codegen/buildddcg.lpi svn_mime_002dtype=text%2Fplain svn_eol
 packages/fcl-db/src/codegen/buildddcg.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/codegen/fpcgcreatedbf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/codegen/fpcgdbcoll.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/codegen/fpcgfieldmap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/codegen/fpcgsqlconst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/codegen/fpcgtiopf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/codegen/fpcgtypesafedataset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/codegen/fpddcodegen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/codegen/fpddpopcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/datadict/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
