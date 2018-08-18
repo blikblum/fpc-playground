@@ -2628,6 +2628,7 @@ packages/fcl-process/src/os2/pipes.inc svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-process/src/os2/simpleipc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/pipes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/pipesipc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/src/process.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/process.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/processbody.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/src/processunicode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
