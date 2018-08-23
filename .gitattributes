@@ -9807,7 +9807,6 @@ rtl/linux/mipsel/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 rtl/linux/mipsel/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mipsel/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/mipsel/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/oldlinux.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/osmacro.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/ossysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
