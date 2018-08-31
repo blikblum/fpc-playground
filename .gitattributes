@@ -13203,6 +13203,7 @@ tests/test/tgeneric100.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nati
 tests/test/tgeneric101.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric102.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric103.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgeneric104.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgeneric11.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric12.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tgeneric13.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -14018,6 +14019,7 @@ tests/test/ugenconstraints.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle
 tests/test/ugeneric.test75.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ugeneric10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric102.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/ugeneric104.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ugeneric14.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/ugeneric4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
