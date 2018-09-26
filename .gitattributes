@@ -643,6 +643,8 @@ compiler/ppcmips.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcmipsel.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcppc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcppc64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcriscv32.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcriscv64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcsparc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcsparc64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcx64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -662,6 +664,77 @@ compiler/rautils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/rescmn.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/rgbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/rgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/agrvgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/cgrv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/hlcgrv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/nrvadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/nrvcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/nrvcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/nrvinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/nrvset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/aoptcpuc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/hlcgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/nrv32add.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/nrv32cal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/nrv32cnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/nrv32mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rarv32.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rarv32gas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rrv32con.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rrv32dwa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rrv32nor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rrv32num.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rrv32rni.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rrv32sri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rrv32sta.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rrv32std.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rrv32sup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/rv32reg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv32/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/aoptcpuc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/cpunode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/cpupara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/hlcgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/nrv64add.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/nrv64cal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/nrv64cnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/nrv64ld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/nrv64mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rarv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rarv64gas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rrv32con.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rrv32dwa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rrv32nor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rrv32num.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rrv32rni.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rrv32sri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rrv32sta.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rrv32std.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rrv32sup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/rv32reg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv64/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/scandir.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/scanner.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/sparc/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9840,6 +9913,28 @@ rtl/linux/powerpc64/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 rtl/linux/powerpc64/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/pthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/ptypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv32/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv32/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv32/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv32/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv32/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv32/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv32/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv32/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv32/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv32/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv32/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/si_c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/si_c21.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10400,6 +10495,27 @@ rtl/qnx/qnx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/qnx/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/qnx/signal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/qnx/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv32/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv32/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv32/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv32/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv32/riscv32.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv32/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv32/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv32/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv32/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv32/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv64/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv64/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv64/riscv64.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv64/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv64/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv64/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv64/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/riscv64/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/solaris/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -11991,6 +12107,14 @@ tests/test/cg/obj/linux/powerpc64/tcext3.o svn_mime_002dtype=application%2Foctet
 tests/test/cg/obj/linux/powerpc64/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/powerpc64/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/powerpc64/tcext6.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/riscv64/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/riscv64/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/riscv64/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/riscv64/tcext3.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/riscv64/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/riscv64/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/riscv64/tcext6.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/linux/riscv64/ttasm1.obj svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/sparc/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/sparc/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/linux/sparc/ctest.o svn_mime_002dtype=application%2Foctet-stream
