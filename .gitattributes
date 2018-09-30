@@ -2210,6 +2210,7 @@ packages/fcl-db/src/export/fptexexport.pp svn_mime_002dtype=text%2Fplain svn_eol
 packages/fcl-db/src/export/fpxmlxsdexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/json/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/json/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/json/extjsdataset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/json/fpjsondataset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/memds/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/memds/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
