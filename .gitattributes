@@ -9005,6 +9005,10 @@ rtl/amiga/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eo
 rtl/amiga/timerd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 rtl/android/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/aarch64 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+rtl/android/aarch64/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/aarch64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/aarch64/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/arm/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/arm/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/arm/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
