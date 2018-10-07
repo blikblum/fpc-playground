@@ -14486,7 +14486,9 @@ tests/utils/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/avx/asmtestgenerator.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/avx/avxopcodes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/avx/avxtestfilecmp.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/avx/avxtestfilecmp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/utils/avx/avxtestgenerator.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/avx/avxtestgenerator.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/avx/baselist.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/utils/avx/cmpoptions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
