@@ -11931,6 +11931,14 @@ tests/test/cg/obj/aix/powerpc64/tcext5.o svn_mime_002dtype=application%2Foctet-s
 tests/test/cg/obj/aix/powerpc64/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/amiga/m68k/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/android svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+tests/test/cg/obj/android/aarch64 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+tests/test/cg/obj/android/aarch64/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/aarch64/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/aarch64/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/aarch64/tcext3.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/aarch64/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/aarch64/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/aarch64/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/android/arm svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 tests/test/cg/obj/android/arm-eabi svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 tests/test/cg/obj/android/arm-eabi/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
