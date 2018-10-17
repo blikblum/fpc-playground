@@ -9022,6 +9022,8 @@ rtl/android/jvm/androidr14.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 rtl/android/jvm/java_sys_android.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/jvm/java_sysh_android.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/jvm/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/android/mips64 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+rtl/android/mips64/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/mipsel svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 rtl/android/mipsel/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/android/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
