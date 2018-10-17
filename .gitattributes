@@ -11969,6 +11969,14 @@ tests/test/cg/obj/android/mipsel/tcext3.o svn_mime_002dtype=application%2Foctet-
 tests/test/cg/obj/android/mipsel/tcext4.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/android/mipsel/tcext5.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/android/mipsel/tcext6.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/x86_64 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+tests/test/cg/obj/android/x86_64/cpptcl1.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/x86_64/cpptcl2.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/x86_64/ctest.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/x86_64/tcext3.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/x86_64/tcext4.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/x86_64/tcext5.o svn_mime_002dtype=application%2Foctet-stream
+tests/test/cg/obj/android/x86_64/tcext6.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/beos/i386/ctest.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/beos/i386/tcext3.o svn_mime_002dtype=application%2Foctet-stream
 tests/test/cg/obj/beos/i386/tcext4.o svn_mime_002dtype=application%2Foctet-stream
