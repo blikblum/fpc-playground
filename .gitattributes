@@ -7196,6 +7196,7 @@ packages/pastojs/src/pas2jscompiler.pp svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/pastojs/src/pas2jsfilecache.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jsfiler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jsfileutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/src/pas2jsfileutilsnodejs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jsfileutilsunix.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jsfileutilswin.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jslibcompiler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
