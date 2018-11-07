@@ -85,6 +85,7 @@ compiler/arm/narmcal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/narmcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/narmcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/narminl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/arm/narmld.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/arm/narmmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/narmmem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/narmset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
