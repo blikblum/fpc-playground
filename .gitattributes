@@ -9825,6 +9825,7 @@ rtl/linux/aarch64/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 rtl/linux/aarch64/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/aarch64/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/aarch64/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/arm/abitag.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/arm/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/arm/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/arm/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9846,6 +9847,7 @@ rtl/linux/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/fpcylix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/fpmake.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/i386/abitag.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/i386/si_c21.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
