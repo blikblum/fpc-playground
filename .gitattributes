@@ -1187,6 +1187,7 @@ packages/arosunits/src/layers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/arosunits/src/locale.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/arosunits/src/longarray.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/mui.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/arosunits/src/serial.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/tagsarray.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/utility.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6485,6 +6486,7 @@ packages/morphunits/src/keymap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/morphunits/src/layers.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/locale.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/morphunits/src/mui.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/serial.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/timer.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/tinygl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/utility.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -6978,6 +6980,7 @@ packages/os4units/src/layers.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dsty
 packages/os4units/src/locale.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/mui.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/picasso96api.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/os4units/src/serial.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os4units/src/timer.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/utility.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/workbench.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
