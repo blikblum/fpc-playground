@@ -7645,7 +7645,6 @@ packages/rtl-extra/src/amiga/printer.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/rtl-extra/src/amiga/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/android/clocale.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/android/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-extra/src/android/unixsock.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/android/unxsockh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/aros/sockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-extra/src/beos/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
