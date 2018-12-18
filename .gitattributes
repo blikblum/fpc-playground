@@ -1,4 +1,4 @@
-/ svnc_svnmerge_002dintegrated svnc_fisheye_002eaccess=allow svnc_bugtraq_003aurl svnc_bugtraq_003alogregex svn_global_002dignores
+/ svnc_tsvn_003aprojectlanguage=1033 svnc_svnmerge_002dintegrated svnc_fisheye_002eaccess=allow svnc_bugtraq_003aurl svnc_bugtraq_003alogregex svn_global_002dignores
 /Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 /compiler svnc_svnmerge_002dintegrated
