@@ -7878,6 +7878,8 @@ packages/sndfile/src/sndfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/sqlite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sqlite/examples/myext.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/sqlite/examples/myext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/src/sqlite.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/sqlite/src/sqlite3.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
