@@ -10884,6 +10884,7 @@ tests/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/bansi1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/bansi1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/bansi1mt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/bench/bcase.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/bench/blists1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/blists1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/bench/bmd5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
