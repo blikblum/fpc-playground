@@ -13046,6 +13046,7 @@ tests/test/tcase47.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase47_2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase48.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase48_2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tcase49.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
