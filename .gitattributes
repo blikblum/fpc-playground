@@ -9631,6 +9631,8 @@ rtl/haiku/pthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/ptypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/settimeo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/haiku/si_c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/haiku/si_dllc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/signal.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/suuid.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
