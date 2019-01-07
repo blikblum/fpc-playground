@@ -3835,6 +3835,7 @@ packages/gnome1/src/zvt/lists.inc svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/gnome1/src/zvt/vt.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gnome1/src/zvt/vtx.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gnutls/examples/httpget.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gnutls/examples/privkey.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gnutls/examples/testgnutls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gnutls/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gnutls/src/gnutls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
