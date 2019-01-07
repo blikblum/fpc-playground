@@ -9654,6 +9654,7 @@ rtl/haiku/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/haiku/x86_64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/cpu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/cpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
