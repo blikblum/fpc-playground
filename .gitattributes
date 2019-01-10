@@ -9628,10 +9628,6 @@ rtl/haiku/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/i386/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/i386/dllcprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/haiku/i386/dllprt.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/haiku/i386/dllprt.cpp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/haiku/i386/func.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/haiku/i386/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/i386/sig_cpu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/i386/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/osdefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
