@@ -9623,7 +9623,6 @@ rtl/go32v2/v2prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/baseunix.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/haiku/bethreads.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/haiku/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
