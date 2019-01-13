@@ -10088,6 +10088,7 @@ rtl/morphos/doslibf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/emuld.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/execd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/execf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/morphos/lineinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/si_prc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/morphos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
