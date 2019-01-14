@@ -3842,6 +3842,7 @@ packages/gnutls/examples/srvcacert.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/gnutls/examples/testgnutls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gnutls/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/gnutls/src/gnutls.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/gnutls/src/gnutlssockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
