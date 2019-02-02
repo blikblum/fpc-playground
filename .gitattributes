@@ -9755,6 +9755,7 @@ rtl/inc/rttih.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/sfpu128.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/inc/sfpux80.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/inc/softfpu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/sortbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/sstrings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/strings.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/stringsi.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
