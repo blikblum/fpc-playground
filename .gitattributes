@@ -14386,6 +14386,7 @@ tests/test/units/objects/testobj2.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 tests/test/units/sharemem/libtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sharemem/test1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/softfpu/sfttst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/sortalgs/tsortalgs1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sortbase/tsortbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/strings/tstrcopy.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/strings/tstrings1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
