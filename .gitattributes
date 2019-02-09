@@ -5434,6 +5434,11 @@ packages/libgd/examples/gdtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/libgd/examples/gdtestcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libgd/src/gd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libmagic/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libmagic/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libmagic/examples/basic.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libmagic/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libmagic/src/libmagic.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libmicrohttpd/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libmicrohttpd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libmicrohttpd/examples/basicauthentication.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
