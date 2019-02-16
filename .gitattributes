@@ -2432,6 +2432,7 @@ packages/fcl-fpcunit/src/xmltestreport.pp svn_mime_002dtype=text%2Fplain svn_eol
 packages/fcl-image/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/DejaVuLGCSans.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-image/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/createbarcode.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -2439,6 +2440,8 @@ packages/fcl-image/examples/createbarcode.lpr svn_mime_002dtype=text%2Fplain svn
 packages/fcl-image/examples/createqrcode.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/createqrcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/drawing.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-image/examples/edit-clear.png svn_mime_002dtype=image%2Fpng
+packages/fcl-image/examples/fpcanvasalphadraw.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/imgconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/interpoldemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-image/examples/pattern.png svn_mime_002dtype=image%2Fpng
