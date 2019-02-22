@@ -12881,6 +12881,7 @@ tests/test/packages/win-base/tdispvar1.pp svn_mime_002dtype=text%2Fplain svn_eol
 tests/test/packages/zlib/tzlib1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/t4cc1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/t4cc2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/taarch64abi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabstract1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tabstrcl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabsvr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
