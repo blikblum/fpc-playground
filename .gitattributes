@@ -2296,6 +2296,7 @@ packages/fcl-db/src/sqldb/postgres/pqconnection.pp svn_mime_002dtype=text%2Fplai
 packages/fcl-db/src/sqldb/postgres/pqeventmonitor.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/readme.txt svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/sqldb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/src/sqldb/sqldbini.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/sqldblib.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/sqlite/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/src/sqldb/sqlite/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
