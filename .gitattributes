@@ -3470,6 +3470,7 @@ packages/fcl-web/src/restbridge/sqldbrestdata.pp svn_mime_002dtype=text%2Fplain 
 packages/fcl-web/src/restbridge/sqldbrestini.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/restbridge/sqldbrestio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/restbridge/sqldbrestjson.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/restbridge/sqldbrestmodule.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/restbridge/sqldbrestschema.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/restbridge/sqldbrestxml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/webdata/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
