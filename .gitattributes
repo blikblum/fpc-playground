@@ -2654,6 +2654,7 @@ packages/fcl-passrc/tests/testpassrc.lpi svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-passrc/tests/testpassrc.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-pdf/examples/diamond.png svn_mime_002dtype=image%2Fpng
 packages/fcl-pdf/examples/poppy.jpg svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-pdf/examples/testfppdf.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-pdf/examples/testfppdf.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
