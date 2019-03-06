@@ -3461,6 +3461,7 @@ packages/fcl-web/src/jsonrpc/fpextdirect.pp svn_mime_002dtype=text%2Fplain svn_e
 packages/fcl-web/src/jsonrpc/fpjsonrpc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/jsonrpc/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/jsonrpc/webjsonrpc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/restbridge/sqldbrestado.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/restbridge/sqldbrestauth.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/restbridge/sqldbrestauthini.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/restbridge/sqldbrestbridge.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
