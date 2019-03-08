@@ -3327,7 +3327,9 @@ packages/fcl-web/examples/restbridge/delphiclient/sqldbrestclient.res svn_mime_0
 packages/fcl-web/examples/restbridge/demorestbridge.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/restbridge/demorestbridge.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/restbridge/expenses-data.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/restbridge/expenses-fb.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/restbridge/expenses-pq.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/restbridge/expenses-sqlite.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/routing-session/routingsessiondemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/routing-session/routingsessiondemo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/routing/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
