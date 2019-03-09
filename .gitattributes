@@ -3321,6 +3321,8 @@ packages/fcl-web/examples/jsonrpc/extdirect/extdirect.in svn_mime_002dtype=text%
 packages/fcl-web/examples/jsonrpc/extdirect/wmext.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/jsonrpc/extdirect/wmext.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/restbridge/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/restbridge/cmdclient/cmdclient.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/restbridge/cmdclient/cmdclient.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/restbridge/delphiclient/frmmain.dfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/restbridge/delphiclient/frmmain.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/restbridge/delphiclient/sqldbrestclient.dpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
