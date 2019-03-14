@@ -10427,6 +10427,7 @@ rtl/openbsd/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/i386/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/i386/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/i386/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/openbsd/i386/openbsd_ident.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/i386/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/i386/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/i386/si_dll.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10462,6 +10463,7 @@ rtl/openbsd/x86_64/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/openbsd/x86_64/crt0.s svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/openbsd/x86_64/openbsd_ident.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/si_dll.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
