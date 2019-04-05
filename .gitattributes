@@ -12962,7 +12962,10 @@ tests/test/tarray14.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tarray15.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tarray16.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tarray17.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tarray18.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tarray19.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tarray2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tarray20.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tarray3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tarray4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tarray5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
