@@ -17568,6 +17568,7 @@ utils/h2pas/converu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2pas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2pas.y svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/h2pas/h2paschk.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2paspp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2plexlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/h2pas/h2poptions.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
