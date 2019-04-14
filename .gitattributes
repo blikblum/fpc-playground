@@ -676,6 +676,7 @@ compiler/riscv/nrvcnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/riscv/nrvcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv/nrvinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv/nrvset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/rarvgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv32/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv32/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
