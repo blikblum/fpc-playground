@@ -10013,10 +10013,9 @@ rtl/linux/riscv32/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 rtl/linux/riscv32/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/riscv32/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/riscv64/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/riscv64/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/riscv64/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/riscv64/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/linux/riscv64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/si_dll.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/riscv64/si_prc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/riscv64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/riscv64/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/riscv64/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
