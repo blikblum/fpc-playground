@@ -10456,6 +10456,7 @@ rtl/openbsd/sysctlh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/sysofft.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/systypes.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/openbsd/t_openbsd.h2paschk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/termio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/termios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/termiosproc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
