@@ -7524,6 +7524,8 @@ packages/ptc/src/win32/base/win32windowd.inc svn_mime_002dtype=text%2Fplain svn_
 packages/ptc/src/win32/base/windows.ico svn_mime_002dtype=application%2Foctet-stream
 packages/ptc/src/win32/directx/p_ddraw.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/directx/p_dinput.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/t_ddraw.h2paschk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ptc/src/win32/directx/t_dinput.h2paschk svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/directx/win32directxcheck.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/directx/win32directxconsoled.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ptc/src/win32/directx/win32directxconsolei.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
