@@ -10769,6 +10769,7 @@ rtl/unix/scripts/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/scripts/check_consts.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/scripts/check_errno.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/scripts/check_errnostr.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/unix/scripts/check_rtl_types.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/scripts/check_sys.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/settimeo.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/unix/syscall.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
