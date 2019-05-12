@@ -13141,6 +13141,15 @@ tests/test/tcase6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase8.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcase9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tcasecov1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcg1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tchlp1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tchlp10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
