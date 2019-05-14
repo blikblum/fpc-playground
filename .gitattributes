@@ -10100,6 +10100,7 @@ rtl/m68k/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/macos/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/dos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/macos.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/macostp.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10114,6 +10115,7 @@ rtl/macos/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/macos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/macos/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/mips/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
