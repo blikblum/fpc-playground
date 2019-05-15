@@ -10470,7 +10470,6 @@ rtl/openbsd/unxconst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/unxfunc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/unxsysc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-rtl/openbsd/x86_64/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/openbsd_ident.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/openbsd/x86_64/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
