@@ -12877,7 +12877,9 @@ tests/test/opt/tdfa15.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/test/opt/tdfa16.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tdfa17.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tdfa18.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/opt/tdfa19.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tdfa2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/opt/tdfa20.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/opt/tdfa3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tdfa4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/opt/tdfa5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
