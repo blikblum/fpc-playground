@@ -1985,6 +1985,7 @@ packages/fcl-base/examples/stringl.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-base/examples/tarmakercons.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/tarmakerconsgzip.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/examples/testappexit.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testbf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testbs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/testcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
