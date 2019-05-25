@@ -1942,6 +1942,7 @@ packages/fcl-base/examples/databom.txt svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-base/examples/dbugsrv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/debugtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/decodeascii85.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-base/examples/demoio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/dobserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/doecho.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/dparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
