@@ -14168,6 +14168,7 @@ tests/test/trtti18a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trtti18b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trtti19.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trtti2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/trtti20.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trtti3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trtti5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
