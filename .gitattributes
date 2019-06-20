@@ -2649,6 +2649,7 @@ packages/fcl-passrc/tests/tcmoduleparser.pas svn_mime_002dtype=text%2Fplain svn_
 packages/fcl-passrc/tests/tconstparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcpassrcutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcprocfunc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-passrc/tests/tcresolvegenerics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcresolver.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcscanner.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-passrc/tests/tcstatements.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
