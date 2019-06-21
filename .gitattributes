@@ -47,6 +47,7 @@ compiler/aarch64/racpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 compiler/aarch64/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aasmcfi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmcnst.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmdata.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aasmdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -149,6 +150,7 @@ compiler/cfidwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cfileutl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cg64f32.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/cgexcept.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cghlcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cgutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -173,6 +175,7 @@ compiler/dbgstabx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/defcmp.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/defutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/dirparse.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/dwarfbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/elfbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/entfile.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/export.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -335,15 +338,18 @@ compiler/jvm/tgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ldscript.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/link.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/aasmllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/llvm/aasmllvmmetadata.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/agllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/cgllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/hlcgllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/itllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/llvm/llvmcfi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvminfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmnode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmpara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/llvm/llvmpi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmsym.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmtarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmtype.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -655,6 +661,7 @@ compiler/ppheap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/procdefutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/procinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/psabiehpi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/pstatmnt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/psub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/psystem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -9816,6 +9823,8 @@ rtl/inc/objcnf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objpas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/objpash.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/pagemem.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/psabieh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/psabiehh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/real2str.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/resh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/rtti.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
