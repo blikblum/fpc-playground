@@ -363,6 +363,7 @@ compiler/llvm/nllvminl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/llvm/nllvmld.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/nllvmmat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/nllvmmem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/llvm/nllvmset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/nllvmtcon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/nllvmutil.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/rgllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
