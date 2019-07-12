@@ -13345,6 +13345,7 @@ tests/test/tcustomattr1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nat
 tests/test/tcustomattr10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcustomattr11.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcustomattr12.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tcustomattr13.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcustomattr2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcustomattr3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcustomattr4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
