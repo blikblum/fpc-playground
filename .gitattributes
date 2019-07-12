@@ -13275,6 +13275,16 @@ tests/test/tclass6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass7.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tclass9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclassattribute1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclassattribute10.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclassattribute2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclassattribute3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclassattribute4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclassattribute5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclassattribute6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclassattribute7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclassattribute8.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tclassattribute9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclassinfo1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tclrprop.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcmov1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
