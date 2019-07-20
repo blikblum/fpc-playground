@@ -7297,6 +7297,7 @@ packages/pastojs/src/pas2jslibcompiler.pp svn_mime_002dtype=text%2Fplain svn_eol
 packages/pastojs/src/pas2jslogger.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jspcucompiler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jspparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/src/pas2jsresstrfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jsuseanalyzer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jsutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/tcconverter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
