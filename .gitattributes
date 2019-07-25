@@ -9199,6 +9199,7 @@ rtl/atari/xbios.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/avr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/cpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/avr/divide.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/avr/intrinsics.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/avr/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
