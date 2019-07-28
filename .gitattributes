@@ -8357,6 +8357,7 @@ packages/pastojs/src/pas2jsuseanalyzer.pp svn_mime_002dtype=text%2Fplain svn_eol
 packages/pastojs/src/pas2jsutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/tcconverter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/tcfiler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/tests/tcgenerics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/tcmodules.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/tcoptimizations.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/tests/tcprecompile.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
