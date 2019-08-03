@@ -14247,6 +14247,11 @@ tests/test/tcase9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tcasecov1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcasecov2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcasecov3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov3a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov3b.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov3c.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov3d.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tcasecov3e.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcasecov4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcasecov5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tcasecov6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
