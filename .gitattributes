@@ -14737,6 +14737,7 @@ tests/test/tgenfunc8.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgenfunc9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgoto.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/theap.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/theap2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/theapthread.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/thintdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/thintdir1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
