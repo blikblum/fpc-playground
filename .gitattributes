@@ -7096,6 +7096,7 @@ packages/libndsfpc/examples/graphics/grit/256colorTilemap/Makefile.fpc svn_mime_
 packages/libndsfpc/examples/graphics/grit/256colorTilemap/gfx/tilemap.grit svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics/grit/256colorTilemap/gfx/tilemap.png svn_mime_002dtype=application%2Foctet-stream
 packages/libndsfpc/examples/graphics/grit/256colorTilemap/tilemap_256_color.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/libndsfpc/examples/graphics/grit/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/graphics/grit/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libndsfpc/examples/hello_world svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/libndsfpc/examples/hello_world/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
