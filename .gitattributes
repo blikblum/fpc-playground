@@ -15201,6 +15201,7 @@ tests/test/trange3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trange4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trange5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trangeob.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/treadonlydata.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/trecreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trecreg2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/trecreg3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
