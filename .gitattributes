@@ -15552,6 +15552,7 @@ tests/test/units/classes/tstringlistexchange.pp svn_mime_002dtype=text%2Fpascal 
 tests/test/units/classes/ttbits.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/classes/ttlist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/classes/tvclcomobject.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/cocoaall/tw35994.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/cpu/tcpu1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/crt/tcrt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/crt/tctrlc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
