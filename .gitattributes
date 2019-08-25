@@ -9742,6 +9742,11 @@ packages/winunits-base/tests/OOHelper.pp svn_mime_002dtype=text%2Fplain svn_eol_
 packages/winunits-base/tests/OOTest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/hhex.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/winunits-base/tests/hhex2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/winunits-base/tests/inproccomtest/com_clnt.dpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/tests/inproccomtest/com_impl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/tests/inproccomtest/com_serv.dpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/winunits-base/tests/inproccomtest/com_serv.tlb svn_mime_002dtype=application%2Foctet-stream
+packages/winunits-base/tests/inproccomtest/com_serv_TLB.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/testcom1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/testcom2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/winunits-base/tests/testver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
