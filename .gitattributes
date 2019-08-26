@@ -3102,7 +3102,6 @@ packages/fcl-base/src/dummy/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-base/src/eventlog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fpexprpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/src/fpmimetypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fpobserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fptemplate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fptimer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4514,6 +4513,7 @@ packages/fcl-web/src/base/fphttpstatus.pas svn_mime_002dtype=text%2Fplain svn_eo
 packages/fcl-web/src/base/fphttpsys.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-web/src/base/fphttpwebclient.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fpjwt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/base/fpmimetypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fpoauth2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fpoauth2ini.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fpweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
