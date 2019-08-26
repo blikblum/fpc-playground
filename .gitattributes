@@ -4419,6 +4419,7 @@ packages/fcl-web/examples/session/wmsession.pp svn_mime_002dtype=text%2Fplain sv
 packages/fcl-web/examples/simpleserver/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/simpleserver/index.css svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/simpleserver/index.html svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/simpleserver/mime.types svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/simpleserver/simpleserver.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/simpleserver/simpleserver.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/webdata/demo/createusers.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
