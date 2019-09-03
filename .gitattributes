@@ -890,6 +890,7 @@ compiler/utils/fixtab.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpc.mpw svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/fpimpdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/gena64vfp.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/utils/gia64reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/gppc386.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mk68kreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
