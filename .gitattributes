@@ -29,6 +29,7 @@ compiler/aarch64/hlcgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/aarch64/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ncpuadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ncpucnv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/aarch64/ncpucon.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/aarch64/ncpuinl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ncpumat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/aarch64/ncpumem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
