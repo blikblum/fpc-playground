@@ -9629,6 +9629,13 @@ packages/uuid/examples/testuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/uuid/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/uuid/src/libuuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/uuid/src/macuuid.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/vcl-compat/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/vcl-compat/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/vcl-compat/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/vcl-compat/src/System.NetEncoding.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/vcl-compat/tests/tcnetencoding.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/vcl-compat/tests/testcompat.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/vcl-compat/tests/testcompat.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/webidl/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/webidl/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/webidl/examples/parsewebidl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
