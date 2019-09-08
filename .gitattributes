@@ -3420,6 +3420,7 @@ packages/fcl-db/tests/testleaks.sh svn_mime_002dtype=text%2Fplain svn_eol_002dst
 packages/fcl-db/tests/testspecifictbufdataset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testspecifictdbf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testspecifictmemdataset.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fcl-db/tests/testspecifictsqlite3dataset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testsqldb.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-db/tests/testsqlfiles.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testsqlfiles.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
