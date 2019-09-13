@@ -15652,6 +15652,7 @@ tests/test/units/matrix/tinv1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dsty
 tests/test/units/objects/testobj.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/objects/testobj1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/objects/testobj2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/rtl-generics/tw35877.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sharemem/libtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sharemem/test1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/softfpu/sfttst.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
