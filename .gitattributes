@@ -3154,6 +3154,8 @@ packages/fcl-db/examples/createsql.lpi svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-db/examples/createsql.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/dbftool.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/dbftool.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/examples/demomacros.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/examples/demomacros.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/demotypesafeaccess.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/fbadmindemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/examples/fbeventstest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
