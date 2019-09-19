@@ -3393,6 +3393,7 @@ packages/fcl-db/tests/bufdatasettoolsunit.pas svn_mime_002dtype=text%2Fplain svn
 packages/fcl-db/tests/database.ini.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/dbftoolsunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/dbguitestrunner.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/tests/dbtestframework.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/dbtestframework.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/dbtestframework_gui.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/dbtestframework_gui.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
