@@ -3418,6 +3418,7 @@ packages/fcl-db/tests/testdbbasics.pas svn_mime_002dtype=text%2Fplain svn_eol_00
 packages/fcl-db/tests/testdbexport.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testdddiff.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testfieldtypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-db/tests/testjsondataset.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testjsondataset.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testleaks.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-db/tests/testspecifictbufdataset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
