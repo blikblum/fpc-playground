@@ -396,6 +396,7 @@ compiler/m68k/n68kset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/m68k/r68kbss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/r68kcon.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/r68kgas.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/m68k/r68kgasf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/r68kgri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/r68knor.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/r68knum.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -403,6 +404,7 @@ compiler/m68k/r68krni.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 compiler/m68k/r68ksri.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/r68ksta.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/r68kstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/m68k/r68kstdf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/r68ksup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/ra68k.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/ra68kmot.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
