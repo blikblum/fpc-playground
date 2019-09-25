@@ -4506,6 +4506,7 @@ packages/fcl-web/src/base/custcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-web/src/base/custfcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/custhttpapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/custhttpsys.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fcl-web/src/base/custmicrohttpapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/custweb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/ezcgi.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/fcgigate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4534,6 +4535,7 @@ packages/fcl-web/src/base/httpdefs.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-web/src/base/httpprotocol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/httproute.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/iniwebsession.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/src/base/microhttpapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/restbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/restcodegen.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/src/base/tcwebmodule.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
