@@ -8955,6 +8955,7 @@ packages/rtl-objpas/src/inc/fmtbcd.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/rtl-objpas/src/inc/rtti.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/stdconvs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/strutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-objpas/src/inc/system.uitypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/varerror.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/variants.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-objpas/src/inc/varutilh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
