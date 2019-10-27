@@ -8365,10 +8365,13 @@ packages/pastojs/src/pas2jsfileutilsunix.inc svn_mime_002dtype=text%2Fplain svn_
 packages/pastojs/src/pas2jsfileutilswin.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jsfs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jsfscompiler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/src/pas2jshtmlresources.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/src/pas2jsjsresources.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jslibcompiler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jslogger.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jspcucompiler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jspparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/pastojs/src/pas2jsresources.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jsresstrfile.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jsuseanalyzer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/pastojs/src/pas2jsutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
