@@ -6449,12 +6449,6 @@ packages/libenet/examples/serverapp.lpi svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/libenet/examples/serverapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libenet/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libenet/src/enet.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libenet/src/enetcallbacks.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libenet/src/enetlist.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libenet/src/enetplatform.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libenet/src/enetprotocol.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libenet/src/enettime.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/libenet/src/enettypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libenet/src/uenetclass.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libffi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/libffi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
