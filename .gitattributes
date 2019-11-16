@@ -14853,6 +14853,7 @@ tests/test/tinline9.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinlrange1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinlrange2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tinlrange3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tinlrange4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tint2str1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tint2str2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tint641.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
