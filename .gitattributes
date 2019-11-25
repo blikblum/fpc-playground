@@ -4416,6 +4416,10 @@ packages/fcl-web/examples/restbridge/expenses-data.sql svn_mime_002dtype=text%2F
 packages/fcl-web/examples/restbridge/expenses-fb.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/restbridge/expenses-pq.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/restbridge/expenses-sqlite.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/restbridge/readonly/country.sql svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/restbridge/readonly/readme.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/restbridge/readonly/restreadonly.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-web/examples/restbridge/readonly/restreadonly.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/routing-session/routingsessiondemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/routing-session/routingsessiondemo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-web/examples/routing/README svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
