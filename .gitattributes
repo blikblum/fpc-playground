@@ -14776,6 +14776,7 @@ tests/test/tgenfunc15.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/test/tgenfunc16.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgenfunc17.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgenfunc18.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgenfunc19.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgenfunc2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgenfunc3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgenfunc4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -15537,6 +15538,7 @@ tests/test/ugeneric96b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nati
 tests/test/ugeneric96c.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ugeneric96d.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ugeneric99.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/ugenfunc19.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/ugenfunc7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/uhintdir.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/uhlp3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -18010,6 +18012,7 @@ tests/webtbs/tw36212.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw36215.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw3628.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3634.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw36388.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw3650.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3653.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw3661.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
