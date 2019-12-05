@@ -3448,6 +3448,14 @@ packages/fcl-extra/examples/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-extra/examples/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-extra/examples/daemon.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-extra/examples/daemon.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-extra/examples/double/daemonmapperunit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-extra/examples/double/daemonmapperunit1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-extra/examples/double/daemonunit1.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-extra/examples/double/daemonunit1.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-extra/examples/double/daemonunit2.lfm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-extra/examples/double/daemonunit2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-extra/examples/double/double.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-extra/examples/double/resdaemonapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-extra/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-extra/src svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/fcl-extra/src/daemonapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
