@@ -1188,6 +1188,8 @@ packages/arosunits/src/amigados.pas svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/arosunits/src/asl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/clipboard.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/commodities.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/arosunits/src/console.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/arosunits/src/conunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/cybergraphics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/arosunits/src/datatypes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/arosunits/src/diskfont.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -7634,6 +7636,8 @@ packages/morphunits/src/asl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 packages/morphunits/src/cgxvideo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/clipboard.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/commodities.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/morphunits/src/console.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/morphunits/src/conunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/cybergraphics.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/datatypes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/morphunits/src/diskfont.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -8132,6 +8136,8 @@ packages/os4units/src/agraphics.pas svn_mime_002dtype=text%2Fpascal svn_eol_002d
 packages/os4units/src/amigados.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/asl.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/clipboard.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/os4units/src/console.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/os4units/src/conunit.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/os4units/src/cybergraphics.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/datatypes.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/os4units/src/diskfont.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -8753,11 +8759,11 @@ packages/rtl-console/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/rtl-console/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-console/src/amicommon/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 packages/rtl-console/src/amicommon/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/amicommon/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/amicommon/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/amicommon/videodata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/rtl-console/src/amiga/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 packages/rtl-console/src/emx/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/go32v2/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/go32v2/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
