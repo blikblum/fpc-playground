@@ -15695,6 +15695,7 @@ tests/test/units/fpwidestring/twide2fpwidestring.pp svn_mime_002dtype=text%2Fpas
 tests/test/units/fpwidestring/twide6fpwidestring.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/fpwidestring/twide7fpwidestring.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/lineinfo/tlininfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/linux/tstatx.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/math/tcmpnan.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tdivmod.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tmask.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
