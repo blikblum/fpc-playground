@@ -148,6 +148,7 @@ compiler/browcol.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/catch.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ccharset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cclasses.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/cepiktimer.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/cfidwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cfileutl.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cg64f32.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
