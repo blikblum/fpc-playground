@@ -163,6 +163,7 @@ compiler/compinnr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/comprsrc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/constexp.pas svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
 compiler/cpid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/cprofile.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/crefs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cresstr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cscript.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
