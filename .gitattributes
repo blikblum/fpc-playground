@@ -350,6 +350,7 @@ compiler/llvm/itllvm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmcfi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmdef.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/llvm/llvmfeatures.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvminfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmnode.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/llvm/llvmpara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
