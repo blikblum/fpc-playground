@@ -6101,6 +6101,7 @@ packages/ide/fpusrscr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/ide/fputils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ide/fpvars.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ide/fpviews.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/ide/fpx64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ide/gdbmicon.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ide/gdbmiint.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/ide/gdbmiproc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
