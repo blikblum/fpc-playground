@@ -684,6 +684,7 @@ compiler/rgbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/rgobj.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv/agrvgas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/riscv/aoptcpurv.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/riscv/cgrv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv/hlcgrv.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/riscv/nrvadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
