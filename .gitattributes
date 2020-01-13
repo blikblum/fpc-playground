@@ -10698,6 +10698,10 @@ rtl/embedded/empty.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/heapmgr.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/i386 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 rtl/embedded/i386/multiboot.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/riscv32/fe310g000.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/riscv32/fe310g002.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/riscv32/gd32vf103xx.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/riscv32/riscv32_start.inc svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/rtl.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
