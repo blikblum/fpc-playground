@@ -912,6 +912,7 @@ compiler/utils/mkjvmreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/utils/mkmpsreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkppcreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkspreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/mkx86inl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkx86ins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mkx86reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/msg2inc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -940,6 +941,7 @@ compiler/x86/cga.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/cgx86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/cx86innr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86/cx86mminnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/hlcgx86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/itx86int.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -960,6 +962,10 @@ compiler/x86/rgx86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/symi86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/symx86.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/x86ins.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
+compiler/x86/x86intr.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86/x86mmfirst.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86/x86mmsecond.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/x86/x86mmtype.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86/x86reg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/x86_64/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/x86_64/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10856,6 +10862,8 @@ rtl/haiku/x86_64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/i386/cpu.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/cpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/i386/cpumminnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/i386/cpummprocs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/fastmove.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/i386.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/i386/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -12098,6 +12106,8 @@ rtl/wince/winres.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/cpu.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/x86_64/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/cpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/x86_64/cpumminnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/x86_64/cpummprocs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/x86_64/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
