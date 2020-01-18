@@ -3860,6 +3860,11 @@ packages/fcl-report/demos/countries2.inc svn_mime_002dtype=text%2Fplain svn_eol_
 packages/fcl-report/demos/demos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/fcldemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/fcldemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/demos/fonts/DejaVuSans-Bold.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/DejaVuSans-BoldOblique.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/DejaVuSans-ExtraLight.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/DejaVuSans-Oblique.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/DejaVuSans.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/demos/fonts/LiberationSans-Bold.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/demos/fonts/LiberationSans-BoldItalic.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/demos/fonts/LiberationSans-Italic.ttf svn_mime_002dtype=application%2Foctet-stream
@@ -3868,6 +3873,16 @@ packages/fcl-report/demos/fonts/LiberationSerif-Bold.ttf svn_mime_002dtype=appli
 packages/fcl-report/demos/fonts/LiberationSerif-BoldItalic.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/demos/fonts/LiberationSerif-Italic.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/demos/fonts/LiberationSerif-Regular.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/Ubuntu-B.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/Ubuntu-BI.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/Ubuntu-C.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/Ubuntu-L.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/Ubuntu-LI.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/Ubuntu-M.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/Ubuntu-MI.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/Ubuntu-R.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/Ubuntu-RI.ttf svn_mime_002dtype=application%2Foctet-stream
+packages/fcl-report/demos/fonts/Ubuntu-Th.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/demos/laz2fpreport.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/laz2fpreport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/demos/pictures/man01.png svn_mime_002dtype=image%2Fpng
@@ -3936,6 +3951,7 @@ packages/fcl-report/src/fpreportjson.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/fcl-report/src/fpreportpdfexport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportqrcode.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/src/fpreportstreamer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/test/README.md svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/test/fonts/LiberationSerif-Regular.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/test/fonts/calibri.ttf svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-report/test/fonts/calibrib.ttf svn_mime_002dtype=application%2Foctet-stream
@@ -3947,6 +3963,7 @@ packages/fcl-report/test/regtests.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-report/test/tcbasereport.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/test/tchtmlparser.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/test/tcreportdom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-report/test/tcreportgenerator.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/test/tcreportstreamer.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/test/testfpreport.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-report/test/testfpreport.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
