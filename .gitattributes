@@ -5013,6 +5013,9 @@ packages/gnutls/src/gnutlssockets.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/googleapi/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/googleapi/examples/calendar/calendardemo.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/googleapi/examples/calendar/calendardemo.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/googleapi/examples/calendar/google.ini svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/examples/generator/googleapiconv.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/examples/generator/googleapiconv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/googleapi/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
