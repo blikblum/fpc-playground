@@ -14198,6 +14198,8 @@ tests/test/tabsvr2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabsvr3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabsvr4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tabsvr5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tabsvr6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tabsvr7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/taddstr1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/taes1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/talign.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
