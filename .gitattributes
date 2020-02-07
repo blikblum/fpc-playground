@@ -10606,6 +10606,7 @@ rtl/embedded/avr/atmega168.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 rtl/embedded/avr/atmega168a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega168p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega168pa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega168pb.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega169a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega169p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega169pa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10622,6 +10623,7 @@ rtl/embedded/avr/atmega3209.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle
 rtl/embedded/avr/atmega324a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega324p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega324pa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega324pb.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega325.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega3250.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega3250a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10632,6 +10634,7 @@ rtl/embedded/avr/atmega325p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 rtl/embedded/avr/atmega325pa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega328.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega328p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega328pb.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega329.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega3290.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega3290a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10652,6 +10655,7 @@ rtl/embedded/avr/atmega4809.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle
 rtl/embedded/avr/atmega48a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega48p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega48pa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega48pb.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega64.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega640.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega644.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10682,6 +10686,7 @@ rtl/embedded/avr/atmega88.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 rtl/embedded/avr/atmega88a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega88p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega88pa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega88pb.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega8a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega8u2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
