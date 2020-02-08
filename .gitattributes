@@ -10590,8 +10590,10 @@ rtl/embedded/avr/atmega1280.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 rtl/embedded/avr/atmega1281.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega1284.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega1284p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega1284rfr2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega128a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega128rfa1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega128rfr2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega16.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega1608.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega1609.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -10611,12 +10613,16 @@ rtl/embedded/avr/atmega169a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 rtl/embedded/avr/atmega169p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega169pa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega16a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega16hva.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega16hvb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega16hvbrevb.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega16m1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega16u2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega16u4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega2560.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega2561.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega2564rfr2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/avr/atmega256rfr2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega32.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega3208.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega3209.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -10646,9 +10652,11 @@ rtl/embedded/avr/atmega329pa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle
 rtl/embedded/avr/atmega32a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega32c1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega32hvb.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega32hvbrevb.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega32m1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega32u2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega32u4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega406.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega48.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega4808.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega4809.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -10662,6 +10670,7 @@ rtl/embedded/avr/atmega644.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 rtl/embedded/avr/atmega644a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega644p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega644pa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega644rfr2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega645.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega6450.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega6450a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10676,7 +10685,9 @@ rtl/embedded/avr/atmega649a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 rtl/embedded/avr/atmega649p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega64a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega64c1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega64hve2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega64m1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega64rfr2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega8.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega808.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega809.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -10688,6 +10699,7 @@ rtl/embedded/avr/atmega88p.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 rtl/embedded/avr/atmega88pa.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/atmega88pb.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega8a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/atmega8hva.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/atmega8u2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny102.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -10700,6 +10712,9 @@ rtl/embedded/avr/attiny1607.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle
 rtl/embedded/avr/attiny1614.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/attiny1616.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/attiny1617.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/avr/attiny1624.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/avr/attiny1626.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/avr/attiny1627.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/attiny1634.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny167.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny20.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10732,6 +10747,7 @@ rtl/embedded/avr/attiny417.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=
 rtl/embedded/avr/attiny4313.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny43u.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny44.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/attiny441.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/attiny44a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny45.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny461.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10746,6 +10762,7 @@ rtl/embedded/avr/attiny816.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=
 rtl/embedded/avr/attiny817.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/attiny828.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny84.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/attiny841.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/attiny84a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny85.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny861.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
