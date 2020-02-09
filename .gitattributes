@@ -10704,8 +10704,11 @@ rtl/embedded/avr/atmega8u2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 rtl/embedded/avr/attiny10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny102.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/attiny104.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/avr/attiny11.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/embedded/avr/attiny12.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/attiny13.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/embedded/avr/attiny13a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/embedded/avr/attiny15.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/attiny1604.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/attiny1606.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/embedded/avr/attiny1607.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
