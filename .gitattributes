@@ -14904,6 +14904,9 @@ tests/test/tgenfunc17.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nativ
 tests/test/tgenfunc18.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgenfunc19.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgenfunc2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgenfunc20.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgenfunc21.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tgenfunc22.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgenfunc3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgenfunc4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tgenfunc5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
