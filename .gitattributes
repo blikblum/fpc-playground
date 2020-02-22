@@ -13703,7 +13703,9 @@ tests/test/cg/tclatype.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 tests/test/cg/tcnvint1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcnvint2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcnvint3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/cg/tcnvint3a.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cg/tcnvint3b.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/cg/tcnvint3c.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/cg/tcnvint4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcnvint5.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/cg/tcnvint6.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
