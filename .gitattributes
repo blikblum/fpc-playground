@@ -10827,6 +10827,7 @@ rtl/freebsd/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/buildrtl.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/console.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freebsd/csucommon/ignore_init.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/errno.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/errnostr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/freebsd.pas svn_mime_002dtype=text%2Fplain
@@ -10862,6 +10863,7 @@ rtl/freebsd/x86_64/cprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/freebsd/x86_64/dllprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/x86_64/gprt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/x86_64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freebsd/x86_64/reloc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/x86_64/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freebsd/x86_64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
