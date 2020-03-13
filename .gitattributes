@@ -4634,6 +4634,7 @@ packages/fcl-xml/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/fcl-xml/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/buildfclxml.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/buildfclxml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-xml/examples/htmlwithsax.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/examples/reducexml.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/examples/reducexml.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-xml/examples/test.html svn_mime_002dtype=text%2Fhtml svn_eol_002dstyle=native
