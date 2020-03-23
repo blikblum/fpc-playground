@@ -12246,6 +12246,7 @@ rtl/xtensa/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/xtensa/mathu.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
