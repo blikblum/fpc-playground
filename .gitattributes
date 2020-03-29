@@ -832,6 +832,7 @@ compiler/systems/i_aros.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 compiler/systems/i_atari.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_beos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_bsd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/i_darwin.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_embed.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_emx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/i_freertos.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
@@ -864,6 +865,7 @@ compiler/systems/t_aros.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 compiler/systems/t_atari.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_beos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_bsd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/systems/t_darwin.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_embed.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_emx.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/systems/t_freertos.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
