@@ -11398,9 +11398,16 @@ rtl/linux/x86_64/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 rtl/linux/x86_64/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/x86_64/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/x86_64/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/xtensa/bsyscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/xtensa/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/xtensa/si_dll.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/xtensa/si_prc.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/xtensa/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/xtensa/sighndh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/xtensa/stat.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/xtensa/syscall.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/linux/xtensa/syscallh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/linux/xtensa/sysnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/m68k/lowmath.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
