@@ -1086,6 +1086,7 @@ packages/amunits/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nativ
 packages/amunits/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/amunits/examples/amicube.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/examples/asltest.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/examples/bezier.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/amunits/examples/bezier2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
