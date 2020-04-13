@@ -15907,6 +15907,7 @@ tests/test/units/math/tdivmod.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyl
 tests/test/units/math/tmask.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tmask.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tmask2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/math/tminmaxconst.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/math/tnaninf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/math/tpower.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/math/troundm.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
