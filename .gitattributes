@@ -106,6 +106,7 @@ compiler/arm/rarmstd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/rarmsup.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/arm/symcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/armgen/aoptarm.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/armgen/armpara.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/assemble.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/avr/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
