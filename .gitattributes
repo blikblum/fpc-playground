@@ -15399,7 +15399,9 @@ tests/test/toperator85.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=nati
 tests/test/toperator86.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/toperator87.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/toperator88.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/toperator89.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/toperator9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/toperator90.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/toperatorerror.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tover1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tover2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
