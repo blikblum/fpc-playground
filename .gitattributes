@@ -10919,6 +10919,16 @@ rtl/freebsd/x86_64/si_c.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/freebsd/x86_64/sighnd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freertos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freertos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freertos/arm/cortexm0.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/freertos/arm/cortexm0_start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freertos/arm/cortexm3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/freertos/arm/cortexm3_start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freertos/arm/cortexm4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/freertos/arm/cortexm4f_start.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/freertos/arm/cortexm7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/freertos/arm/stm32f103xe.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/freertos/arm/stm32f401xe.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/freertos/arm/stm32g071xx.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/freertos/check.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freertos/classes.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/freertos/consoleio.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
