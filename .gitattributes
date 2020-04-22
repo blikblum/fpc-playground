@@ -12178,6 +12178,7 @@ rtl/win/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/systlsdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/syswin.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/win/syswinh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/windirs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/win/wininc/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
