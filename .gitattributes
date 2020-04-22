@@ -1037,6 +1037,7 @@ compiler/xtensa/ncpuadd.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=na
 compiler/xtensa/ncpucnv.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/xtensa/ncpuinl.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/xtensa/ncpumat.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+compiler/xtensa/ncpumem.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/xtensa/ncpuutil.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/xtensa/racpugas.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/xtensa/raxtensa.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
