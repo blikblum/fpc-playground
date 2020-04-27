@@ -12359,6 +12359,8 @@ rtl/z80/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/z80/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/z80/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/z80.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/zxspectrum/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/zxspectrum/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
