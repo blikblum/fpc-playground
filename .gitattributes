@@ -1063,6 +1063,7 @@ compiler/xtensa/xtensareg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 compiler/z80/aasmcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/agsdasz80.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/agz80asm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/z80/agz80vasm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
