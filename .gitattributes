@@ -12367,6 +12367,7 @@ rtl/zxspectrum/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/zxspectrum/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/zxspectrum/prt0.asm svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/zxspectrum/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/zxspectrum/si_prc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/zxspectrum/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/zxspectrum/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/zxspectrum/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
