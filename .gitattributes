@@ -532,6 +532,7 @@ compiler/ogmacho.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogmap.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ognlm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ogomf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ogrel.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/omfbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/optconstprop.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
