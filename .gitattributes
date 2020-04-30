@@ -8884,6 +8884,7 @@ packages/rtl-console/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/rtl-console/src/amicommon/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
 packages/rtl-console/src/amicommon/keyboard.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/amicommon/mouse.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/rtl-console/src/amicommon/vidcrt.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-console/src/amicommon/video.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/amicommon/videodata.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-console/src/emx/crt.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
