@@ -165,14 +165,12 @@ compiler/compiler.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/compinnr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/comprsrc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/constexp.pas svn_mime_002dtype=text%2Fx-pascal svn_eol_002dstyle=native
-compiler/cpid.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cprofile.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/crefs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cresstr.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cscript.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cstreams.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/cutils.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-compiler/cwindirs.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/dbgbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/dbgcodeview.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/dbgdwarf.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
