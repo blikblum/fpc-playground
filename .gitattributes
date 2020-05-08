@@ -389,6 +389,7 @@ compiler/m68k/cpupi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/hlcgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/itcpugas.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/m68k/m68kins.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/m68kreg.dat svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native svn_eol_002dmime=text%2Fplain
 compiler/m68k/n68kadd.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/m68k/n68kcal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -910,6 +911,7 @@ compiler/utils/fpimpdef.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/utils/gena64vfp.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/utils/gia64reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/gppc386.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/utils/mk68kins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mk68kreg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mka64ins.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/utils/mka64reg.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
