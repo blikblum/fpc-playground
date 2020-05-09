@@ -15335,6 +15335,7 @@ tests/test/tmshlp9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tmt1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tmul1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tnest1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tnest2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tnoext1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tnoext2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tnoext3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
