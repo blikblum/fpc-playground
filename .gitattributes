@@ -16154,6 +16154,7 @@ tests/test/units/sysutils/tfile2.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 tests/test/units/sysutils/tfilename.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tfloattostr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tformat.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/units/sysutils/tinttohex.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/units/sysutils/tlocale.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/trwsync.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/units/sysutils/tsscanf.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
