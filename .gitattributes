@@ -9252,6 +9252,8 @@ packages/tosunits/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 packages/tosunits/examples/gemcube.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/examples/gemwin.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/examples/higem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tosunits/examples/showpic.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tosunits/examples/showpic.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/src/aes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/src/gemdos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
