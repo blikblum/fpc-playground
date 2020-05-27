@@ -15251,6 +15251,7 @@ tests/test/tisorec1.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisorec2.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisorec3.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tisorec4.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tisorec5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tlea1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlea2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tlib1a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -18425,6 +18426,7 @@ tests/webtbs/tw37013.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw37060.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw37062.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw3708.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/webtbs/tw37085.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbs/tw37095.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw37095d/uw37095.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbs/tw37107.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
