@@ -9077,6 +9077,7 @@ packages/rtl-generics/tests/testrunner.rtlgenerics.lpi svn_mime_002dtype=text%2F
 packages/rtl-generics/tests/testrunner.rtlgenerics.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-generics/tests/tests.generics.arrayhelper.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-generics/tests/tests.generics.bugs.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/tests/tests.generics.dictionary.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-generics/tests/tests.generics.hashmaps.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-generics/tests/tests.generics.sets.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-generics/tests/tests.generics.stdcollections.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
