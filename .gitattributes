@@ -11569,6 +11569,16 @@ rtl/msdos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msxdos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msxdos/registers.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msxdos/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msxdos/si_prc.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/msxdos/sysdir.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msxdos/sysfile.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msxdos/sysheap.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msxdos/sysos.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msxdos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msxdos/system.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/nativent/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/nativent/buildrtl.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
