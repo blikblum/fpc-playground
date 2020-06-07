@@ -1074,6 +1074,7 @@ compiler/z80/agz80vasm.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nati
 compiler/z80/aoptcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/aoptcpub.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/aoptcpud.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/z80/ccpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/cgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/cpubase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/cpuinfo.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -1084,6 +1085,7 @@ compiler/z80/cputarg.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/hlcgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/nz80add.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/nz80cal.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/z80/nz80inl.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 compiler/z80/nz80mat.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/nz80mem.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/z80/raz80.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -12375,6 +12377,7 @@ rtl/xtensa/strings.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/stringss.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/xtensa/xtensa.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/cpuh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/z80/cpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
