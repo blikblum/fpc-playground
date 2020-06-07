@@ -662,6 +662,7 @@ compiler/ppcgen/ngppcset.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=na
 compiler/ppcgen/rgcpu.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcjvm.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcmips.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+compiler/ppcmips64el.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcmipsel.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcppc.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 compiler/ppcppc64.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
