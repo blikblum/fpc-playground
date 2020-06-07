@@ -11571,6 +11571,7 @@ rtl/msdos/sysosh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/sysutils.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msdos/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/msxdos/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msxdos/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msxdos/registers.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/msxdos/rtldefs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
