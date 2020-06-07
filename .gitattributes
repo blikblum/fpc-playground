@@ -12381,6 +12381,8 @@ rtl/z80/cpuinnr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/int64p.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/makefile.cpu svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/math.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/z80/ports.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/z80/portsh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/set.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/setjump.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/z80/setjumph.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
