@@ -9083,7 +9083,9 @@ packages/rtl-generics/tests/tests.generics.arrayhelper.pas svn_mime_002dtype=tex
 packages/rtl-generics/tests/tests.generics.bugs.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-generics/tests/tests.generics.dictionary.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-generics/tests/tests.generics.hashmaps.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/tests/tests.generics.queue.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-generics/tests/tests.generics.sets.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/rtl-generics/tests/tests.generics.stack.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/rtl-generics/tests/tests.generics.stdcollections.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-generics/tests/tests.generics.trees.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/rtl-generics/tests/tests.generics.utils.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
