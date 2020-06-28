@@ -10358,6 +10358,7 @@ rtl/amiga/m68k/legacyutilh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 rtl/amiga/m68k/m68kamiga.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/m68k/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/m68k/si_prc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/amiga/m68k/timerf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/m68k/utild1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/m68k/utild2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/m68k/utilf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10367,6 +10368,7 @@ rtl/amiga/powerpc/execd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=nat
 rtl/amiga/powerpc/execf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/powerpc/prt0.as svnc_amiga_003aprotection=----rw-d+rw-d+rw-d svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/powerpc/si_prc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/amiga/powerpc/timerf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/powerpc/utild1.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/powerpc/utild2.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/amiga/powerpc/utilf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -10430,6 +10432,7 @@ rtl/aros/i386/utilf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aros/si_prc.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aros/system.pp svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native svn_eol_002dstyle=native
 rtl/aros/timerd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=native svn_eol_002dstyle=native
+rtl/aros/timerf.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/aros/x86_64/prt0.as svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/atari/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dtype=nativ svn_eol_002dstyle=native
