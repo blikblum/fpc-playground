@@ -11012,6 +11012,7 @@ rtl/freertos/systhrd.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freertos/sysutils.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/freertos/tthread.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/freertos/xtensa/esp32.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+rtl/freertos/xtensa/esp8266.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 rtl/gba/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/gba/classes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
