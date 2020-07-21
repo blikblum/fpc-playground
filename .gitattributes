@@ -11179,6 +11179,7 @@ rtl/inc/fpintres.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/gencurr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/generic.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/genmath.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+rtl/inc/genmathh.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/genset.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/genstr.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 rtl/inc/genstrs.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
