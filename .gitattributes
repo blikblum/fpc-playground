@@ -3740,6 +3740,7 @@ packages/fcl-js/examples/fpjsmin.pp svn_mime_002dtype=text%2Fplain svn_eol_002ds
 packages/fcl-js/examples/srcmapdump.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/examples/srcmapdump.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-js/src/fcl-js.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jsbase.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jsminifier.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-js/src/jsparser.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
