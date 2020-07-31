@@ -15598,6 +15598,11 @@ tests/test/tover2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tover3.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tover4.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tover4.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+tests/test/tover5.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tover6.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tover7.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tover8.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/test/tover9.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/test/tpackrec.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/test/tparray10.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
