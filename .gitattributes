@@ -19458,6 +19458,10 @@ utils/pas2js/docs/translation.html svn_mime_002dtype=text%2Fhtml svn_eol_002dsty
 utils/pas2js/fpmake.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/httpcompiler.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/libstub.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/libstub.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/makestub.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/makestub.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/nodepas2js.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/nodepas2js.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/pas2js.cfg svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -19473,6 +19477,7 @@ utils/pas2js/samples/hello.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 utils/pas2js/samples/ifdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/samples/repeatdemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/samples/whiledemo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+utils/pas2js/stubcreator.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/webfilecache.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/webidl2pas.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/pas2js/webidl2pas.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
