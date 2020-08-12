@@ -4121,6 +4121,11 @@ packages/fcl-res/src/machosubreader.inc svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/fcl-res/src/machosubwriter.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/src/machotypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/src/machowriter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-res/src/rclex.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-res/src/rclex.l svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-res/src/rcparser.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fcl-res/src/rcparser.y svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-res/src/rcreader.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-res/src/resdatastream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/src/resfactory.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/src/resmerger.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -4136,6 +4141,8 @@ packages/fcl-res/src/versionresource.pp svn_mime_002dtype=text%2Fplain svn_eol_0
 packages/fcl-res/src/versiontypes.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/src/winpeimagereader.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/src/xcoffwriter.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-res/src/yyinclude.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fcl-res/src/yypreproc.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-res/xml/acceleratorsresource.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/xml/bitmapresource.xml svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/xml/clean.sh svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
