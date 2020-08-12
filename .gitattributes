@@ -4125,6 +4125,7 @@ packages/fcl-res/src/rclex.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=
 packages/fcl-res/src/rclex.l svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/src/rcparser.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-res/src/rcparser.y svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-res/src/rcparserfn.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/src/rcreader.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-res/src/resdatastream.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-res/src/resfactory.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
