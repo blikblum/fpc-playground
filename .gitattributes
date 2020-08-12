@@ -9298,6 +9298,10 @@ packages/tosunits/src/aes.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=n
 packages/tosunits/src/gemdos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/src/vdi.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/tosunits/src/xbios.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tplylib/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/tplylib/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/tplylib/src/lexlib.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/tplylib/src/yacclib.pas svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/univint/Makefile svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/univint/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -19600,7 +19604,6 @@ utils/tply/README.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/fpmake.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/lexbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/lexdfa.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/tply/lexlib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/lexlist.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/lexmsgs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/lexopt.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -19611,7 +19614,6 @@ utils/tply/plex.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/pyacc.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/yaccbase.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/yaccclos.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-utils/tply/yacclib.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/yacclook.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/yacclr0.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 utils/tply/yaccmsgs.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
