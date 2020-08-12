@@ -3135,7 +3135,6 @@ packages/fcl-base/examples/contit.pp svn_mime_002dtype=text%2Fplain svn_eol_002d
 packages/fcl-base/examples/crittest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/csvbom.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/databom.txt svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/examples/dbugsrv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/debugtest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/decodeascii85.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/demoio.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3906,6 +3905,7 @@ packages/fcl-process/Makefile.fpc svn_mime_002dtype=text%2Fplain svn_eol_002dsty
 packages/fcl-process/Makefile.fpc.fpcmake svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/checkipcserver.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/checkipcserver.lpr svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-process/examples/dbugsrv.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/demoproject.ico svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-process/examples/demoproject.lpi svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-process/examples/demoproject.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
