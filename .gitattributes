@@ -3171,8 +3171,6 @@ packages/fcl-base/examples/mstream.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-base/examples/poolmm1.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/poolmm2.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/restest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/examples/showver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/examples/showver.res svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-base/examples/sitest.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/sockcli.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/examples/socksvr.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3232,7 +3230,6 @@ packages/fcl-base/src/csvreadwrite.pp svn_mime_002dtype=text%2Fplain svn_eol_002
 packages/fcl-base/src/custapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/dummy/eventlog.inc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/eventlog.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
-packages/fcl-base/src/fileinfo.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fpexprpars.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fpobserver.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-base/src/fptemplate.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
@@ -3583,10 +3580,14 @@ packages/fcl-extra/examples/double/daemonunit2.lfm svn_mime_002dtype=text%2Fplai
 packages/fcl-extra/examples/double/daemonunit2.pas svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-extra/examples/double/double.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-extra/examples/double/resdaemonapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-extra/examples/showver.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+packages/fcl-extra/examples/showver.rc svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
+packages/fcl-extra/examples/showver.res svn_mime_002dtype=application%2Foctet-stream
 packages/fcl-extra/fpmake.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-extra/src svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/fcl-extra/src/daemonapp.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 packages/fcl-extra/src/dummy svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
+packages/fcl-extra/src/fileinfo.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 packages/fcl-extra/src/go32v2 svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/fcl-extra/src/netware svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
 packages/fcl-extra/src/netwlibc svnc_bugtraq_003aurl svnc_bugtraq_003alogregex
