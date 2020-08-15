@@ -16692,6 +16692,7 @@ tests/webtbf/tw3740.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw37460.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbf/tw37462.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbf/tw37475.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
+tests/webtbf/tw37476.pp svn_mime_002dtype=text%2Fpascal svn_eol_002dstyle=native
 tests/webtbf/tw3790.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw3812.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
 tests/webtbf/tw3930a.pp svn_mime_002dtype=text%2Fplain svn_eol_002dstyle=native
