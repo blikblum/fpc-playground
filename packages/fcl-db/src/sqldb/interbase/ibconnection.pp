@@ -899,6 +899,7 @@ procedure TIBConnection.UnPrepareStatement(cursor : TSQLCursor);
 
 begin
   with cursor as TIBcursor do
+  begin
     if assigned(StatementHandle) Then
       begin
         if isc_dsql_free_statement(@Status[0], @StatementHandle, DSQL_Drop) <> 0 then
@@ -906,6 +907,9 @@ begin
         StatementHandle := nil;
         FPrepared := False;
       end;
+    FreeSQLDABuffer(SQLDA);
+    FreeSQLDABuffer(in_SQLDA);
+  end;
 end;
 
 procedure TIBConnection.FreeSQLDABuffer(var aSQLDA : PXSQLDA);
@@ -949,8 +953,6 @@ procedure TIBConnection.FreeFldBuffers(cursor : TSQLCursor);
 begin
   with cursor as TIBCursor do
     begin
-    FreeSQLDABuffer(SQLDA);
-    FreeSQLDABuffer(in_SQLDA);
     SetLength(FieldBinding,0);
     end;
 end;
